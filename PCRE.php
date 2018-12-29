@@ -1,6 +1,4 @@
 <?php
-/*Regular Expressions Perl-Compatible*/
-
 
 class PCre 
 {
