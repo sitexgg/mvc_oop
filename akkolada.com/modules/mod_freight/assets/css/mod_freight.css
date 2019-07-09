@@ -1,0 +1,102 @@
+/*@media (min-width: 620px) and (max-width: 890px) {*/
+/*#modal_calc a#head_tel { font-size: 21px; }*/
+/*} */
+
+/*@media (max-width: 620px) {*/
+    /*#modal_calc { width: 95%; }*/
+    /*#modal_calc .respond { padding: 0 10px; }*/
+    /*#modal_calc .row-calc { padding: 0 10px; }*/
+    /*#modal_calc input[type="text"],*/
+    /*#modal_calc .rsform-block-alt-price .formControlLabel,*/
+    /*#modal_calc .rsform-block-phone-site-title .formBody,*/
+    /*#modal_calc a#head_tel{ position: static; }*/
+    /*.rsform-block.rsform-block-alt-price{ margin: 0 10px; }*/
+    /*#modal_calc .moduletable { padding: 15px 0 50px 0; }*/
+    /*#modal_calc .rsform-block-user-phone { position: relative; top: -30px; }*/
+    /*#modal_calc .rsform-block-submit { position: relative !important; top: 60px !important; left: 0 !important; }*/
+    /*fieldset.formFieldset ol.formContainer { padding-bottom: 20px; }*/
+    /*#modal_calc .formError { text-indent: -9999em; }*/
+    /*#modal_calc .row-calc { line-height: 30px; }*/
+    /*#modal_calc .row-calc.total-cost { font-size: 21px; }*/
+    /*#modal_calc .rsform-block-alt-price .col-md-8 { text-align: center; }*/
+/*}*/
+@font-face {font-family: 'scadabold';src: url('https://akkolada.com/modules/mod_freight/assets/fonts/scada-bold-webfont.eot');src: url('https://akkolada.com/modules/mod_freight/assets/fonts/scada-bold-webfont.eot?') format('embedded-opentype'),url('https://akkolada.com/modules/mod_freight/assets/fonts/scada-bold-webfont.woff2') format('woff2'),url('https://akkolada.com/modules/mod_freight/assets/fonts/scada-bold-webfont.woff') format('woff'),url('https://akkolada.com/modules/mod_freight/assets/fonts/scada-bold-webfont.ttf') format('truetype'),url('https://akkolada.com/modules/mod_freight/assets/fonts/scada-bold-webfont.svg') format('svg');font-weight: normal;font-style: normal;}
+@font-face {font-family: 'scadabold_italic';src: url('https://akkolada.com/modules/mod_freight/assets/fonts/scada-bolditalic-webfont.eot');src: url('https://akkolada.com/modules/mod_freight/assets/fonts/scada-bolditalic-webfont.eot?') format('embedded-opentype'),url('https://akkolada.com/modules/mod_freight/assets/fonts/scada-bolditalic-webfont.woff2') format('woff2'),url('https://akkolada.com/modules/mod_freight/assets/fonts/scada-bolditalic-webfont.woff') format('woff'),url('https://akkolada.com/modules/mod_freight/assets/fonts/scada-bolditalic-webfont.ttf') format('truetype'),url('https://akkolada.com/modules/mod_freight/assets/fonts/scada-bolditalic-webfont.svg') format('svg');font-weight: normal;font-style: normal;}
+@font-face {font-family: 'scadaitalic';src: url('https://akkolada.com/modules/mod_freight/assets/fonts/scada-italic-webfont.eot');src: url('https://akkolada.com/modules/mod_freight/assets/fonts/scada-italic-webfont.eot?') format('embedded-opentype'),url('https://akkolada.com/modules/mod_freight/assets/fonts/scada-italic-webfont.woff2') format('woff2'),url('https://akkolada.com/modules/mod_freight/assets/fonts/scada-italic-webfont.woff') format('woff'),url('https://akkolada.com/modules/mod_freight/assets/fonts/scada-italic-webfont.ttf') format('truetype'),url('https://akkolada.com/modules/mod_freight/assets/fonts/scada-italic-webfont.svg') format('svg');font-weight: normal;font-style: normal;}
+@font-face {font-family: 'scadaregular';src: url('https://akkolada.com/modules/mod_freight/assets/fonts/scada-regular-webfont.eot');src: url('https://akkolada.com/modules/mod_freight/assets/fonts/scada-regular-webfont.eot?') format('embedded-opentype'),url('https://akkolada.com/modules/mod_freight/assets/fonts/scada-regular-webfont.woff2') format('woff2'),url('https://akkolada.com/modules/mod_freight/assets/fonts/scada-regular-webfont.woff') format('woff'),url('https://akkolada.com/modules/mod_freight/assets/fonts/scada-regular-webfont.ttf') format('truetype'),url('https://akkolada.com/modules/mod_freight/assets/fonts/scada-regular-webfont.svg') format('svg');font-weight: normal;font-style: normal;}
+#sbox-window{height: auto!important;background: #000!important;padding: 5px!important;border-radius: 0!important;}
+.formRequired{display: none;}
+.pac-container{z-index: 999999!important;}
+.container-calc dl.tabs{float: left;width: 100%;margin-bottom: 0;}
+.container-calc dt.tabs{float: left;}
+.container-calc dt.tabs h3{margin: 0;}
+.container-calc dt.tabs h3 a{font-size: 16px;font-family: 'scadaregular',sans-serif;font-weight: normal;color: #3071a9;padding: 12px 66px;display: block;text-decoration: none;}
+.container-calc dt.tabs h3 a:hover{background: #eee;}
+.container-calc dt.tabs.open h3 a{color: #ffffff;background: #cc0000;}
+.container-calc .current{float: left;width: 100%;padding: 15px 0;border: 1px solid #ddd;border-radius: 0 4px 4px 4px;}
+.container-calc .item{text-align: center;}
+.container-calc .item table{background: url("https://akkolada.com/modules/mod_freight/assets/images/cars/volume.png") top left no-repeat;width: 200px;min-height: 80px;display: block;position: relative;background-size: contain;margin: 0 auto;}
+.container-calc .item tr, .container-calc .item td{display: block;font-family: 'scadaregular',sans-serif;font-size: 12px;color: #333;}
+.container-calc .item table tr td{position: absolute}
+.container-calc .item table tr:first-of-type td:first-of-type{top: 20px;left: -30px;}
+.container-calc .item table tr:first-of-type td{top: 25px; left: 25px;}
+.container-calc .item table tr:first-of-type td:last-of-type{top: 15px;left: 65px;}
+.container-calc .item table tr:last-of-type td{top: 60px;left: 90px;}
+.container-calc .item .title{font-size: 18px;font-family: 'scadabold', sans-serif;color: #333;display: table;min-height: 50px;width: 100%;height: 50px;}
+.container-calc .item .title span{display: table-cell;vertical-align: middle;height: 100%;}
+.container-calc .item .params p{margin-bottom: 0;font-family: 'scadaregular',sans-serif;font-size: 16px;color: #333;}
+.container-calc a.modal-link.btn, .container-calc a.get-result, #sbox-content a.get-result{color: #fff;cursor: pointer;display: inline-block;font: bold 19px/38px "Scada",Arial,Helvetica,sans-serif;height: 38px;margin-bottom: 8px;padding: 0;text-align: center;text-decoration: none;text-transform: uppercase;width: 227px;}
+.container-calc a.modal-link.image{display: block;max-width: 100%;}
+.container-calc a.modal-link.image img{width: 100%;height: auto;}
+.container-calc .row{margin-bottom: 35px;}
+.container-calc .row:last-of-type{margin-bottom: 0;}
+.container-calc #modal-window, .container-calc #modal-respond{display: none;width: 840px;margin: 0 auto;}
+.container-calc .modal-calc, #sbox-content .modal-calc {float: left;width: 100%;}
+.container-calc .modal-calc .form-calc, #sbox-content .modal-calc .form-calc{float: left;width: 100%;/*padding: 0 30px;*/box-sizing: border-box;text-align: center;display: table;}
+.container-calc .modal-calc .form-calc > div, #sbox-content .modal-calc .form-calc > div{display: table-cell;}
+.container-calc .departures input, #sbox-content .departures input {background: url("https://akkolada.com/modules/mod_freight/assets/images/form.png") 10px 8px no-repeat;}
+.container-calc .destination input, #sbox-content .destination input{background: url("https://akkolada.com/modules/mod_freight/assets/images/form.png") 10px -75px no-repeat;}
+.container-calc .tonnage select, #sbox-content .tonnage select{width: 250px;}
+.calcbottom .jq-selectbox__select-text.placeholder{background: transparent url("https://akkolada.com/modules/mod_freight/assets/images/form.png") 9px -123px no-repeat;}
+.calcbottom .jq-selectbox__dropdown{text-align: left;}
+.container-calc .moduletable, #sbox-content .moduletable{background: #f2f2f2;float: left;width: 100%;}
+.container-calc .respond, #sbox-content .respond{float: left;width: 100%;padding: 0 15px;}
+.container-calc .respond .head-modal, #sbox-content .respond .head-modal{text-align: center;text-transform: uppercase;font: 24px/100% 'scadaregular', Arial, Helvetica, sans-serif;padding: 10px 0}
+#sbox-window .modal-calc{padding: 15px 15px 0}
+#sbox-content .moduletable{display: none;}
+#sbox-window a#sbox-btn-close{width: 38px;height: 19px;background: url("https://akkolada.com/modules/mod_freight/assets/images/controls.png") -30px 0 no-repeat;top: 4px;right: 10px;}
+#sbox-window a#sbox-btn-close:hover{background-position: -30px -111px;}
+.container-calc .row-calc, #sbox-window .row-calc{float: left;width: 100%;border: 1px solid #eaeaea;border-left: 3px solid #f21010;padding: 0 35px;box-sizing: border-box;margin-bottom: 10px;font: 16px/150% 'Scada', Arial, Helvetica, sans-serif;}
+.container-calc .row-calc span.result, #sbox-window .row-calc span.result{float: right;}
+.container-calc .rsform-block-user-phone input, #sbox-window .rsform-block-user-phone input{margin-left: 10px;background: #fff url("https://akkolada.com/modules/mod_freight/assets/images/head_tel.png") 10px 8px no-repeat;}
+.container-calc a.comagic_phone1, #sbox-window a.comagic_phone1{padding: 0 0 0 20px;font-size: 26px;color: #f21010;font-weight: 700;line-height: 30px;text-decoration: none;background: url("https://akkolada.com/modules/mod_freight/assets/images/head_tel.png") 0 5px no-repeat;display: block;}
+.container-calc .rsform-block-phone-site, #sbox-window .rsform-block-phone-site{padding-left: 15px;}
+.container-calc .rsform-block-alt-price > div:first-of-type, #sbox-window .rsform-block-alt-price > div:first-of-type{font-weight: bold;padding-right: 0;padding-top: 7px;}
+.container-calc #map{margin-bottom: 20px;}
+#sbox-window .row-calc.total-cost {
+    font-weight: 700;
+}
+#sbox-content .rsform-input-box {
+    border: 1px solid #3e3e3e !important;
+    position: relative;
+    z-index: 500;
+}
+#sbox-content .rsform-submit-button {
+    float: right;
+    cursor: pointer;
+    position: relative;
+    z-index: 500;
+}
+#sbox-content .rsform-submit-button:hover {
+    background: #2C9448 !important;
+}
+#sbox-content .modal-title {
+    padding: 15px 0 0 20px;
+    font-family: "scadabold",sans-serif;
+    font-size: 18px;
+    color: #333;
+}
+#sbox-content .rsform-block-price,
+#sbox-content .rsform-block-car {
+    display: none;
+}

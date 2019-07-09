@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: /panel/
-Disallow: /admin/
-Disallow: /search/
-Host: www.transport-novosibirsk.ru
-Sitemap: http://www.transport-novosibirsk.ru/sitemap.xml

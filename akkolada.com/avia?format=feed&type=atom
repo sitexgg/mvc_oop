@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="" -->
+<?xml-stylesheet href="/media/plg_jchoptimize/css/pro-jquery.lazyloadxt.fadein.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="ru-ru">
+	<title type="text">Авиа</title>
+	<subtitle type="text">Грузоперевозки по Москве и МО. Дешевле чем у всех! Скидки! </subtitle>
+	<link rel="alternate" type="text/html" href="index.html"/>
+	<id>https://akkolada.com/avia</id>
+	<updated>2018-08-21T12:27:19+03:00</updated>
+	<author>
+		<name>Akkolada.com</name>
+		<email>info@akkolada.com</email>
+	</author>
+	<generator uri="https://www.joomla.org"></generator>
+	<link rel="self" type="application/atom+xml" href="avia?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Перевозка автомобиля самолетом</title>
+		<link rel="alternate" type="text/html" href="avia/274-perevozka-avtomobilya-samoletom"/>
+		<published>2015-09-15T09:08:57+03:00</published>
+		<updated>2015-09-15T09:08:57+03:00</updated>
+		<id>https://akkolada.com/avia/274-perevozka-avtomobilya-samoletom</id>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://akkolada.com/images/blog2/perevozka-avto-samolyetami-3.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Необходима бережная и быстрая авиадоставка элитного или раритетного автомобиля из Европы, Азии, Японии, США во все города России? Компания &amp;laquo;Акколада&amp;raquo; предлагает перевозку авто самолетом с соблюдением всех требований к доставке негабаритных и ценных грузов.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://akkolada.com/images/blog2/perevozka-avto-samolyetami-3.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Необходима бережная и быстрая авиадоставка элитного или раритетного автомобиля из Европы, Азии, Японии, США во все города России? Компания &amp;laquo;Акколада&amp;raquo; предлагает перевозку авто самолетом с соблюдением всех требований к доставке негабаритных и ценных грузов.&lt;/p&gt;
+</content>
+		<category term="Авиа" />
+	</entry>
+	<entry>
+		<title>Авиадоставка из Китая</title>
+		<link rel="alternate" type="text/html" href="avia/272-aviadostavka-iz-kitaya"/>
+		<published>2015-09-11T13:13:01+03:00</published>
+		<updated>2015-09-11T13:13:01+03:00</updated>
+		<id>https://akkolada.com/avia/272-aviadostavka-iz-kitaya</id>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://akkolada.com/images/blog2/aviaperevozka-kitay-cover.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Грузовая авиадоставка из Китая &amp;ndash; это оптимальное решение для клиентов, которые на первое место ставят надежность, безопасность и оперативность перевозки своих грузов. Компания &amp;laquo;Акколада&amp;raquo; предлагает комплексные решения по доставке любых товаров из разных городов/провинций Китая в сжатые сроки по самой оптимальной стоимости.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://akkolada.com/images/blog2/aviaperevozka-kitay-cover.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Грузовая авиадоставка из Китая &amp;ndash; это оптимальное решение для клиентов, которые на первое место ставят надежность, безопасность и оперативность перевозки своих грузов. Компания &amp;laquo;Акколада&amp;raquo; предлагает комплексные решения по доставке любых товаров из разных городов/провинций Китая в сжатые сроки по самой оптимальной стоимости.&lt;/p&gt;
+</content>
+		<category term="Авиа" />
+	</entry>
+	<entry>
+		<title>Авиаперевозка Новосибирск</title>
+		<link rel="alternate" type="text/html" href="avia/271-aviaperevozka-novosibirsk"/>
+		<published>2015-09-09T09:10:41+03:00</published>
+		<updated>2015-09-09T09:10:41+03:00</updated>
+		<id>https://akkolada.com/avia/271-aviaperevozka-novosibirsk</id>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://akkolada.com/images/blog2/aviaperevozka-novosibirsk-cover.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Копания &amp;laquo;Акколада&amp;raquo; поможет вам осуществить быструю и доступную по стоимости перевозку всех типов грузов воздушными судами из Новосибирска.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://akkolada.com/images/blog2/aviaperevozka-novosibirsk-cover.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Копания &amp;laquo;Акколада&amp;raquo; поможет вам осуществить быструю и доступную по стоимости перевозку всех типов грузов воздушными судами из Новосибирска.&lt;/p&gt;
+</content>
+		<category term="Авиа" />
+	</entry>
+</feed>

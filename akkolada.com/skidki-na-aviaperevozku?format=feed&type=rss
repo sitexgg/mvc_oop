@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="" -->
+<?xml-stylesheet href="/media/plg_jchoptimize/css/pro-jquery.lazyloadxt.fadein.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Скидки на Авиаперевозку</title>
+		<description><![CDATA[Грузоперевозки по Москве и МО. Дешевле чем у всех! Скидки! ]]></description>
+		<link>https://akkolada.com/skidki-na-aviaperevozku</link>
+		<lastBuildDate>Tue, 21 Aug 2018 12:30:11 +0300</lastBuildDate>
+		<generator></generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://akkolada.com/skidki-na-aviaperevozku?format=feed&amp;type=rss"/>
+		<language>ru-ru</language>
+		<managingEditor>info@akkolada.com (Akkolada.com)</managingEditor>
+	</channel>
+</rss>

@@ -1,0 +1,1868 @@
+<!doctype html>
+<html lang="ru-ru">
+<head>
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-PRXT3D8');</script>
+	<!-- End Google Tag Manager -->
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="format-detection" content="telephone=no">
+    <meta name="yandex-verification" content="5cf34ca9f489fac5" />
+    <meta name="yandex-verification" content="580c707663c75e0c" />
+	<base href="" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Автоперевозки грузов" />
+	<meta name="author" content="CRM" />
+	<meta name="description" content="Компания работает на рынке транспортных услуг не один год и предлагает вам по выгодной цене автоперевозки грузов" />
+	<title>Автоперевозки грузов! Дешево и быстро</title>
+	<link href="https://akkolada.com/templates/main/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="../media/modals/css/colorbox3.css" rel="stylesheet" type="text/css" />
+	<link href="../plugins/system/jcemediabox/css/jcemediabox.css?8cfa64e271ad662672a2c7924b73bad3" rel="stylesheet" type="text/css" />
+	<link href="../plugins/system/jcemediabox/themes/squeeze/css/style.css?758494fb0fa014b378b6a6b12995edde" rel="stylesheet" type="text/css" />
+	<link href="../media/plg_jchoptimize/css/pro-jquery.lazyloadxt.fadein.css" rel="stylesheet" type="text/css" />
+	<link href="../modules/mod_ip_city/css/style.css" rel="stylesheet" type="text/css" />
+	<script type="application/json" class="joomla-script-options new">{
+    "system.paths": {
+        "root": "",
+        "base": ""
+    }
+}</script>
+	<script src="../media/jui/js/jquery.js?a0d1c8a487310c2bed90fbab5ba04c05" type="text/javascript"></script>
+	<script src="../media/jui/js/jquery-noconflict.js?a0d1c8a487310c2bed90fbab5ba04c05" type="text/javascript"></script>
+	<script src="../media/jui/js/jquery-migrate.js?a0d1c8a487310c2bed90fbab5ba04c05" type="text/javascript"></script>
+	<script src="../media/system/js/caption-uncompressed.js?a0d1c8a487310c2bed90fbab5ba04c05" type="text/javascript"></script>
+	<script src="../media/jui/js/bootstrap.js?a0d1c8a487310c2bed90fbab5ba04c05" type="text/javascript"></script>
+	<script src="../media/modals/js/jquery.touchSwipe.min.js" type="text/javascript"></script>
+	<script src="../media/modals/js/jquery.colorbox-min.js" type="text/javascript"></script>
+	<script src="../media/modals/js/script.js?v=7.0.0" type="text/javascript"></script>
+	<script src="../plugins/system/jcemediabox/js/jcemediabox.js?528821fdbeff175de3123ff67bae847a" type="text/javascript"></script>
+	<script src="../media/plg_jchoptimize/js/pro-jquery.lazyloadxt.js" type="text/javascript"></script>
+	<script src="../media/system/js/mootools-core-uncompressed.js?a0d1c8a487310c2bed90fbab5ba04c05" type="text/javascript"></script>
+	<script src="../media/system/js/core-uncompressed.js?a0d1c8a487310c2bed90fbab5ba04c05" type="text/javascript"></script>
+	<script src="../media/system/js/mootools-more-uncompressed.js?a0d1c8a487310c2bed90fbab5ba04c05" type="text/javascript"></script>
+	<script src="../modules/mod_ip_city/js/jquery.cookie.js" type="text/javascript"></script>
+	<script src="https://api-maps.yandex.ru/2.1.29/?&lang=ru-RU" type="text/javascript"></script>
+	<script type="text/javascript">
+
+                function getCookie(name) {
+                    var matches = document.cookie.match(new RegExp(
+                        "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\/\+^])/g, "\$1") + "=([^;]*)"
+                        ));
+                    return matches ? decodeURIComponent(matches[1]) : undefined;
+                }
+
+                function setCookie(name, value, path) {
+                    value = encodeURIComponent(value);
+                    var updatedCookie = name + "=" + value,
+                        pth           = "path=" + path,
+                        update        = updatedCookie + ";" + pth;
+                    document.cookie = update;
+                }
+
+                function deleteCookie(name) {
+	                setCookie(name, null, 0, 0);
+                }
+            
+                            isAltOn = function(){
+                                setCookie("is_alt", "yes", "/");
+                                location.href = window.location.href;
+                            }
+                            jQuery(document).ready(function($){
+                                $("body").append("<a class=\"version getalt\" style=\"position: relative;z-index: 10;display:none;\" href="https://akkolada.com/rossiya/\&quot;#\"" onclick=\"isAltOn();return false;\">Альтернативный шаблон</a>");
+                            });
+                        
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+;
+var modals_class = 'modal_link'; var modals_defaults = { opacity: '0.8',maxWidth: '95%',maxHeight: '95%',current: '{current} / {total}',previous: 'previous',next: 'next',close: 'close',xhrError: 'This content failed to load.',imgError: 'This image failed to load.' };
+JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:0,overlay:1,overlayopacity:0.5,overlaycolor:"#333333",fadespeed:700,scalespeed:700,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Закрыть','next':'Далее','previous':'Назад','cancel':'Отмена','numbers':'{$current} из {$total}'},cookie_expiry:"",google_viewer:0,pdfjs:0},tooltip:{className:"tooltip",opacity:0,speed:150,position:"tl",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"squeeze",themecustom:"",themepath:"plugins/system/jcemediabox/themes"});
+
+                                jQuery.extend(jQuery.lazyLoadXT, {
+  selector: 'img[data-jchll=true]',
+   
+});
+
+jQuery(window).on('ajaxComplete', function() {
+  setTimeout(function() {
+    jQuery(window).lazyLoadXT();
+  }, 50);
+});
+
+    (function($) {
+        $(function() {
+            var LSregion = $.cookie('region');
+
+              $(document).click(function(event) {
+                if ($(event.target).closest('#allregions').length) return;
+                $('#allregions').slideUp();
+                event.stopPropagation();
+              });
+
+            $('#region').live('click', function(){
+                $('#allregions').slideDown();
+                return false;
+            });
+            $('#allregions a').live('click', function(){
+                $.cookie('region', $(this).text(), {expires: 7, path: '/'});
+                $('#region').text($(this).text());
+                $('#allregions').slideUp();
+                location.reload();
+                return false;
+            });
+
+            if(LSregion && LSregion !== 'undefined'){
+                $('#region').text(LSregion);
+            } else {
+                window.onload = function () {
+                    ymaps.ready(function(){
+                        ymaps.geolocation.get({
+                            provider: 'yandex',
+                            autoReverseGeocode: true
+                        }).then(function (result) {
+
+                            var resGeoCoder = result.geoObjects.get(0).properties.get('text');
+
+                            if(resGeoCoder === 'Россия, Москва'){
+                                resGeoCoder = 'Москва и Московская область';
+                            }
+
+                            $('#region').text(resGeoCoder);
+                            $.cookie('region', resGeoCoder, { expires: 7, path: '/' });
+                        });
+                    });
+
+                }
+            }
+
+            // Обрабатываем массив с условиями
+			function calc(){
+				LSregion = $.cookie('region');
+				var arr = '[["0","\u041c\u043e\u0441\u043a\u0432\u0430 \u0438 \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c","#h-tel-new, .form_feedback .formBody strong, footer .phone strong","\u003Ca id=\\\"head_tel\\\" href=\\\"tel:8 800 707-08-81\\\"\u003E8 800 707-08-81\u003C\/a\u003E\u003Cp\u003E\u0417\u0432\u043e\u043d\u043e\u043a \u043f\u043e \u0420\u043e\u0441\u0441\u0438\u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439\u003C\/p\u003E"],["1","\u041c\u043e\u0441\u043a\u0432\u0430 \u0438 \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c","#result .RS #h-tel-new","\u003Ca id=\\\"head_tel\\\" href=\\\"tel:8 800 707-08-81\\\"\u003E8 800 707-08-81\u003C\/a\u003E\u003Cp\u003E\u0417\u0432\u043e\u043d\u043e\u043a \u043f\u043e \u0420\u043e\u0441\u0441\u0438\u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439\u003C\/p\u003E"]]';
+				$.each(JSON.parse(arr), function(i, obj) {
+					if(obj[0]=='1'){
+						var condition = 'LSregion == obj[1]';
+					} else {
+						var condition = 'LSregion != obj[1]';
+					}
+					if(eval(condition) && LSregion){
+						$(obj[2]).html(obj[3]);
+						return false;
+					}
+				});
+			}
+			calc();
+
+			// Если первый заход - перезапускаем функцию для обновления данных.
+			if(!LSregion){
+				var intervalID = setInterval(function(){
+				  calc();
+				  if($('#region').text()!='Определяем...'){
+					  clearInterval(intervalID);
+				  }
+				}, 1000);
+			}
+
+
+        });
+    })(jQuery);
+
+jQuery(function($){ $(".hasTooltip").tooltip({"html": true,"container": "body"}); });
+	</script>
+
+	<link rel="stylesheet" href="../templates/system/css/system.css" type="text/css"/>
+	<link rel="stylesheet" href="../templates/main/css/bootstrap.min.css" type="text/css"/>
+	<link rel="stylesheet" href="../templates/main/css/slick.css" type="text/css"/>
+	<link rel="stylesheet" href="../templates/main/css/lity.min.css" type="text/css"/>
+	<link rel="stylesheet" href="../templates/main/css/all.css?v=120" type="text/css"/>
+	<link rel="shortcut icon" href="https://akkolada.com/templates/main/favicon.ico" type="image/x-icon"/>
+	<!--[if IE]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<script src="../callme/js/callme.js"></script>
+	<script type="text/javascript" src="../modules/mod_freight/assets/js/mod_freight.js"></script>
+	<script src="../templates/main/js/slick.min.js"></script>
+	<script src="../templates/main/js/lity.min.js"></script>
+	<script src="../templates/main/js/prichin.js" type="text/javascript"></script>
+	<script src="../templates/main/js/main.js"></script>
+	<script src="https://akkolada.com/templates/main/js/sbox_ie11_fix&#32;.js"></script>
+	<script>
+		jQuery(document).ready(function ($)
+		{
+			$('.RS form').submit(function ()
+			{
+				var data = $(this).serialize();
+				$.post($(this).attr("action"), data, function (data, status)
+				{
+					if (status == 'success') {
+						if ($(data).find(".RS").find("form").html() == undefined) {
+							$(".RS").html($(data).find(".RS").html());
+						}
+					}
+				});
+				return false;
+			});
+		});
+	</script>
+	<link href='https://fonts.googleapis.com/css?family=Scada:400italic,700italic,400,700&subset=cyrillic,latin' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="../media/com_rsform/css/front.css" type="text/css"/>
+	<script src="../media/com_rsform/js/script.js"></script>
+<link rel="stylesheet" type="text/css" href="../media/com_rsform/css/frameworks/responsive/responsive.css" />
+<script type="text/javascript">
+
+RSFormProUtils.addEvent(window, 'load',function(){ RSFormPro.setDisabledSubmit('1', true);  })
+</script>
+
+	
+<noindex><div align="center"><img src="http://bob-dylan.ru/image/domen.png"> </div><br><br></noindex>
+<head>
+<body class="vn">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PRXT3D8"
+				  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="container visible-xs">
+	<div class="row">
+		<div class="navbar navbar-default" role="navigation">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+						Меню
+					</button>
+					<a class="navbar-brand" href="../index.html">
+						<img alt="Акколада" src="../images/construct/logo.png">
+					</a>
+				</div>
+				<div class="navbar-collapse collapse">
+					            <div class="module topmenu" id="mod_149">
+            <div>
+                                <ul class="nav menu">
+<li class="item-108 deeper parent"><a href="../avtoperevozki" >Грузоперевозки по России</a><ul class="nav-child unstyled small"><li class="item-117"><a href="../avtoperevozki/dostavka-furami" >Доставка фурами</a></li><li class="item-114"><a href="../avtoperevozki/negabaritnye-perevozki" >Негабаритные перевозки</a></li><li class="item-115"><a href="../avtoperevozki/kontejnernye-perevozki" >Контейнерные перевозки</a></li><li class="item-360"><a href="../avtoperevozki/gazel" >Квартирные и офисные переезды</a></li><li class="item-116"><a href="../avtoperevozki/dostavka-sbornykh-gruzov" >Сборные грузы</a></li><li class="item-388"><a href="../avtoperevozki/gruzoperevozki-po-gorodu" >Грузоперевозки по городу</a></li></ul></li><li class="item-509 deeper parent"><a href="../spetsificheskie-perevozki/237-refrizheratornye-perevozki" >Рефрижераторные перевозки</a><ul class="nav-child unstyled small"><li class="item-510"><a href="../spetsificheskie-perevozki/377-refrizheratory-20-tonn" >Рефрижератом 20 тонн</a></li></ul></li><li class="item-365 deeper parent"><a href="../mezhdunarodnye-perevozki" >Международные перевозки</a><ul class="nav-child unstyled small"><li class="item-366"><a href="../mezhdunarodnye-perevozki/avtoperevozka" >Автоперевозки</a></li><li class="item-368"><a href="../mezhdunarodnye-perevozki/sbornye-gruzy" >Сборные грузы</a></li><li class="item-367"><a href="../mezhdunarodnye-perevozki/tamozhennoe-soprovozhdenie" >Таможенное сопровождение</a></li><li class="item-387"><a href="../mezhdunarodnye-perevozki/multimodalnye-perevozki" >Мультимодальные перевозки</a></li></ul></li><li class="item-109 deeper parent"><a href="../zhd-perevozki" >ЖД / Море / Авиа</a><ul class="nav-child unstyled small"><li class="item-351"><a href="https://akkolada.com/?Itemid=355" >Ж/Д перевозки</a></li><li class="item-151"><a href="../zhd-perevozki/dostavka-sbornykh-gruzov" >Ж/Д доставка сборных грузов</a></li><li class="item-152"><a href="../zhd-perevozki/kontejnernye-perevozki" >Ж/Д контейнерные перевозки</a></li><li class="item-352"><a href="../zhd-perevozki/morskie-perevozki" >Морские  перевозки</a></li><li class="item-364"><a href="../zhd-perevozki/avia" >Авиаперевозка</a></li></ul></li><li class="item-187"><a href="../tseny" >Цены</a></li><li class="item-111"><a href="../blog" >Блог</a></li><li class="item-112"><a href="../kontakty" >Контакты</a></li></ul>
+            </div>
+        </div>
+    
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+	<header>
+		<div class="container">
+			<div class="row">
+				            <div class="module col-md-6 hidden-xs col-sm-6" id="mod_88">
+            <div>
+                                
+
+<div class="custom"  >
+	<p><a href="../index.html"><img src="../images/construct/logo.png" alt="Акколада" /></a></p></div>
+            </div>
+        </div>
+                <div class="module col-md-1" id="mod_176">
+            <div>
+                                
+<script async>
+	jQuery(function ()
+	{
+		/* выбор города */
+		jQuery('.delivery_list').click(function ()
+		{
+			jQuery(".cities_list").slideToggle('fast');
+		});
+		jQuery('ul.cities_list li').click(function ()
+		{
+			var tx = jQuery(this).html();
+			/*alert (tx);*/
+			var tv = jQuery(this).attr('href');
+			/*alert (tv);*/
+			jQuery(".cities_list").slideUp('fast');
+			jQuery(".delivery_list span").html(tx);
+			window.location.href = tv;
+			jQuery(".delivery_text").html(tv);
+		});
+	})
+</script>
+
+<div class="delivery_block">
+	<div class="row">
+		<a href="../tseny-online/oplatit-perevozku-onlajn">
+		<div class="col-md-4 col-xs-6 cartImgMove">
+				<img  id="viza" ondragstart="return false;" src="../images/cart1.png" alt="cart1" height="18"
+					style="border-style: none; border-width: initial; float: left; margin-left: -9px; ">
+		</div>
+		<div class="col-md-4 col-xs-6 cartImgMove">
+				<img id="mastercart" ondragstart="return false;" src="../images/cart2.png" alt="cart2" height="18"
+					style="border-style: none; border-width: initial; float: left; margin-left: -4px;">
+		</div>
+		</a>
+		<div class="col-md-4 hidden-xs ">
+			<div class=" delivery_list">
+				<div id="btn"></div>
+				<span><img src="../images/flag/ru.png"></span>
+			</div>
+			<ul class="cities_list">
+				<li href="http://akkolada.com"><img src="../images/flag/ru.png"></li>
+				<li href="http://en.akkolada.com"><img src="../images/flag/en.png"></li>
+
+			</ul>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+                <div class="module  col-md-2 col-sm-2 mail " id="mod_89">
+            <div>
+                                
+
+<div class="custom"  >
+	<div class="row">
+		<div class=" pochta col-md-12 col-sm-10 col-xs-6 col-xs-offset-3">
+			<p><a href="mailto:info@akkolada.com" id="head_mail">info@akkolada.com</a></p>		</div>
+		<div  class=" cartImgMove1 col-xs-1 col-xs-pull-1  visible-xs hidden-sm hidden-md ">
+			<a href="../tseny-online/oplatit-perevozku-onlajn">
+				<img  id="viza" ondragstart="return false;" src="../images/cart1.png" alt="cart1" height="18"
+					style="border-style: none; border-width: initial; float: left; margin: 0px;">
+			</a>
+		</div>
+		<div   class="cartImgMove1 col-xs-1 col-xs-pull-1  visible-xs hidden-sm hidden-md">
+			<a href="../tseny-online/oplatit-perevozku-onlajn">
+			<img id="mastercart" ondragstart="return false;" src="../images/cart2.png" alt="cart2" height="18"
+					style="border-style: none; border-width: initial; float: left; margin: 0px;">
+			</a>
+		</div>
+	</div>
+</div>
+            </div>
+        </div>
+                <div class="module col-md-3 col-xs-12 phone col-sm-4" id="mod_141">
+            <div>
+                                
+
+<div class="custom"  >
+	<p id="h-tel-new"><a href="tel:+7 (495) 248-00-66" id="head_tel" class="comagic_phone1_link">+7 (495) 248-00-66</a></p>
+<p><a href="457-avtoperevozki-gruzov-po-rossii#call_back_form" class="btn" data-lity>Закажите звонок</a></p></div>
+            </div>
+        </div>
+    
+			</div>
+		</div>
+	</header>
+	<section class="top">
+		            <div class="module topmenu hidden-xs" id="mod_1">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                                                <ul class="nav menu">
+<li class="item-108 deeper parent"><a href="../avtoperevozki" >Грузоперевозки по России</a><ul class="nav-child unstyled small"><li class="item-117"><a href="../avtoperevozki/dostavka-furami" >Доставка фурами</a></li><li class="item-114"><a href="../avtoperevozki/negabaritnye-perevozki" >Негабаритные перевозки</a></li><li class="item-115"><a href="../avtoperevozki/kontejnernye-perevozki" >Контейнерные перевозки</a></li><li class="item-360"><a href="../avtoperevozki/gazel" >Квартирные и офисные переезды</a></li><li class="item-116"><a href="../avtoperevozki/dostavka-sbornykh-gruzov" >Сборные грузы</a></li><li class="item-388"><a href="../avtoperevozki/gruzoperevozki-po-gorodu" >Грузоперевозки по городу</a></li></ul></li><li class="item-509 deeper parent"><a href="../spetsificheskie-perevozki/237-refrizheratornye-perevozki" >Рефрижераторные перевозки</a><ul class="nav-child unstyled small"><li class="item-510"><a href="../spetsificheskie-perevozki/377-refrizheratory-20-tonn" >Рефрижератом 20 тонн</a></li></ul></li><li class="item-365 deeper parent"><a href="../mezhdunarodnye-perevozki" >Международные перевозки</a><ul class="nav-child unstyled small"><li class="item-366"><a href="../mezhdunarodnye-perevozki/avtoperevozka" >Автоперевозки</a></li><li class="item-368"><a href="../mezhdunarodnye-perevozki/sbornye-gruzy" >Сборные грузы</a></li><li class="item-367"><a href="../mezhdunarodnye-perevozki/tamozhennoe-soprovozhdenie" >Таможенное сопровождение</a></li><li class="item-387"><a href="../mezhdunarodnye-perevozki/multimodalnye-perevozki" >Мультимодальные перевозки</a></li></ul></li><li class="item-109 deeper parent"><a href="../zhd-perevozki" >ЖД / Море / Авиа</a><ul class="nav-child unstyled small"><li class="item-351"><a href="https://akkolada.com/?Itemid=355" >Ж/Д перевозки</a></li><li class="item-151"><a href="../zhd-perevozki/dostavka-sbornykh-gruzov" >Ж/Д доставка сборных грузов</a></li><li class="item-152"><a href="../zhd-perevozki/kontejnernye-perevozki" >Ж/Д контейнерные перевозки</a></li><li class="item-352"><a href="../zhd-perevozki/morskie-perevozki" >Морские  перевозки</a></li><li class="item-364"><a href="../zhd-perevozki/avia" >Авиаперевозка</a></li></ul></li><li class="item-187"><a href="../tseny" >Цены</a></li><li class="item-111"><a href="../blog" >Блог</a></li><li class="item-112"><a href="../kontakty" >Контакты</a></li></ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+                <div class="module topslider" id="mod_159">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                                                
+    <div class="slider sltop"><div class="slsl"> 
+<img alt="Слайд 1" src="../images/slider/avtoperevozka-gruzof-gruza.jpg"> 
+<div class="abss"> 
+<p style="margin-bottom:250px;">&nbsp; </p>
+<p><a class="btn" href="../index.html" tabindex="0">Скидки!</a></p> 
+</div> 
+</div> 
+<div class="slsl"> 
+<img alt="Слайд 2" src="../images/slider/new4.jpg"> 
+</div></div>                    </div>
+                </div>
+            </div>
+        </div>
+                <div class="module kroshki" id="mod_106">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                                                
+<ul itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumb kroshki">
+
+				<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+									<a itemprop="item" href="../index.html" class="pathway">
+						<span itemprop="name">
+							Главная						</span>
+					</a>
+				
+									<span class="divider">
+						<img src="../media/system/images/arrow.png" alt="" />					</span>
+								<meta itemprop="position" content="1">
+			</li>
+					<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+									<a itemprop="item" href="../rossiya" class="pathway">
+						<span itemprop="name">
+							Россия						</span>
+					</a>
+				
+									<span class="divider">
+						<img src="../media/system/images/arrow.png" alt="" />					</span>
+								<meta itemprop="position" content="2">
+			</li>
+					<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="active">
+				<span itemprop="name">
+					Автоперевозки грузов по России				</span>
+				<meta itemprop="position" content="3">
+			</li>
+		</ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+                <div class="module form_feedback hidden-xs" id="mod_90">
+            <div>
+                                    <div class="page-head">
+                        <div class="modtitle">
+                            Закажите перевозку!                        </div>
+                    </div>
+                                <div class="rsform">
+	<form method="post"  id="userForm" class="order_the_transportation_top" action="457-avtoperevozki-gruzov-po-rossii"><fieldset class="formFieldset">
+		<div id="rsform_error_4" style="display: none;"></div>
+		<!-- Do not remove this ID, it is used to identify the page so that the pagination script can work correctly -->
+	<ol class="formContainer" id="rsform_4_page_0">
+		<li class="rsform-block rsform-block-header2">
+			<div class="formCaption2"></div>
+			<div class="formBody">Мы вам перезвоним в течение 5 минут<span class="formClr"></span></div>
+			<div class="formDescription"></div>
+		</li>
+		<li class="rsform-block rsform-block-header">
+			<div class="formCaption2"></div>
+			<div class="formBody"><strong  class="comagic_phone1">или звоните: 8 (495) 248-00-66</strong><span class="formClr"></span></div>
+			<div class="formDescription"></div>
+		</li>
+		<li class="rsform-block rsform-block-name">
+			<div class="formCaption2">ФИО<strong class="formRequired"></strong></div>
+			<div class="formBody"><input type="text" value="" size="20" name="form[Name]" id="Name" placeholder="ФИО" class="rsform-input-box" /><span class="formClr"><span id="component31" class="formNoError"></span></span></div>
+			<div class="formDescription"></div>
+		</li>
+		<li class="rsform-block rsform-block-phone">
+			<div class="formCaption2">Номер телефона<strong class="formRequired"></strong></div>
+			<div class="formBody"><input type="text" value="" size="20" name="form[Phone]" id="Phone" placeholder="Номер телефона" class="rsform-input-box" /><span class="formClr"><span id="component32" class="formNoError"></span></span></div>
+			<div class="formDescription"></div>
+		</li>
+		<li class="rsform-block rsform-block-submit">
+			<div class="formCaption2"></div>
+			<div class="formBody"><input type="submit" name="form[Submit]" id="Submit" class="btn rsform-submit-button" value="ЗАКАЗАТЬ ПЕРЕВОЗКУ" /><span class="formClr"></span></div>
+			<div class="formDescription"></div>
+		</li>
+		<li class="rsform-block rsform-block-soglashenie">
+			<div class="formCaption2"></div>
+			<div class="formBody"><small>Нажимая кнопку "Заказать перевозку" вы даете согласие на <a href="../politika-konfeditsialnosti">обработку персональных данных</a></small><span class="formClr"></span></div>
+			<div class="formDescription"></div>
+		</li>
+	</ol>
+</fieldset><input type="hidden" name="form[formId]" value="4"/></form><script type="text/javascript">RSFormPro.Ajax.URL = "\/component\/rsform\/?task=ajaxValidate";</script><script type="text/javascript">rsfp_addEvent(window, 'load', function(){var form = rsfp_getForm(4); 
+			var submitElement = RSFormPro.getElementByType(4, 'submit');
+			for (i = 0; i < submitElement.length; i++) {
+				if (RSFormProUtils.hasClass(submitElement[i],'rsform-submit-button')) {
+					RSFormProUtils.addEvent(submitElement[i],'click', (function(event) {
+							event.preventDefault();
+							RSClickedSubmitElement = this;
+							for (j = 0; j < submitElement.length; j++) {
+								submitElement[j].setAttribute('data-disableonsubmit','1');
+							}
+							ajaxValidation(form, undefined);
+					}));
+				}
+			}
+			});
+			</script>
+<script type="text/javascript">
+ajaxExtraValidationScript[4] = function(task, formId, data){ 
+var formComponents = {};
+formComponents[31]='Name';formComponents[32]='Phone';
+ajaxDisplayValidationErrors(formComponents, task, formId, data);
+};
+</script></div>            </div>
+        </div>
+    
+
+	</section>
+<section class="art">
+	<div class="container">
+		<div class="row">
+						<div class="col-md-12">
+				<div id="system-message-container">
+	</div>
+
+				<div class="item-page rybriki" itemscope itemtype="http://schema.org/Article">
+	<meta itemprop="inLanguage" content="ru-RU" />
+	
+		
+			<div class="page-header">
+		<h1 itemprop="name">
+							Автоперевозки грузов по России					</h1>
+							</div>
+					
+	
+	
+		
+								<div itemprop="articleBody">
+		<p>Компания &laquo;Акколада&raquo; работает на рынке транспортных услуг не один год и предлагает вам по выгодной цене автоперевозки грузов по России. Китай, страны Европы и СНГ &ndash; с этими направлениями мы работаем в том числе. При этом мы дарим страховку на транспортировку в подарок, что немаловажно для тех, кто считает свои деньги и не готов переплачивать за дополнительные услуги.</p>
+ 
+<h2>Специфика автоперевозки грузов</h2>
+<p>Транспортировка груза автотранспортом представляет собой комплекс услуг, при выполнении которых немаловажную роль играет компетентность и опыт специалистов компании-перевозчика. В кратчайшие сроки мы подберем вам для грузоперевозок необходимую модель автомобиля, будь то стандартная тентованная фура, сцепка до 120 м3, низкорамный трал, рефрижератор или малогабаритная газель для переезда или перевозки небольшой партии товара.</p>
+<p>Транспортировка негабаритного груза по России подразумевает сбор необходимых документов, в том числе получение разрешений от соответствующих органов местной власти. Маршрут предварительно подбирается и согласовывается, а в некоторых случаях доставка груза сопровождается машинами ГИБДД. Сотрудничая с нами, вы освобождаетесь от вышеперечисленных хлопот, всю организацию перевозки мы возьмем на себя. Вы можете заказать у нас разовую автоперевозку или поставку груза по заранее согласованному графику. Все это обговаривается в индивидуальном порядке и с выгодой для вас.</p>
+<p>Сколько же стоит такая услуга по автоперевозке? Вы можете узнать это самостоятельно, воспользовавшись online-калькулятором по грузоперевозкам на нашем сайте, либо позвонить нашим специалистам и получить полную информацию по доставке вашего направления.</p>
+<p><img src="../images/razdeli/strahuyem-nashi-gruzi.jpg" alt="" /></p>
+<h3>Автоперевозки груза по России с компанией &laquo;Акколада&raquo;</h3>
+<p>Номенклатурный перечень груза, перевозимый нами, практически безграничен. Мы организуем для вас автоперевозку:</p>
+<ul>
+<li>стройматериалов, труб и металлопроката;</li>
+<li>различного оборудования и станков;</li>
+<li>контейнеров, бытовок, срубов;</li>
+<li>пищевых продуктов (в том числе скоропортящихся);</li>
+<li>мебели и техники для дома (офиса);</li>
+<li>бытовой химии, парфюмерии и косметики.</li>
+</ul>
+<p>В зависимости от вида и веса груза подбирается тип транспорта с его функциональными возможностями и приспособлениями для крепежа. При необходимости перед перевозкой или после нее организуются погрузо-разгрузочные работы с профессиональной техникой и такелажниками, оформляется складское хранение.</p>
+<p><span style="text-decoration: underline;"><em><strong>Пример цен на автоперевозку из Москва в другие города России</strong></em></span> (перевозим из любой точки РФ)</p>
+<table border="0" class="cooltbl" style="border-collapse: collapse; width: 1088px; border-spacing: 0px; max-width: 100%; height: 1074px;" cellspacing="0" cellpadding="0"><colgroup><col style="width: 173pt;" width="231" /> <col style="width: 89pt;" width="119" /> <col style="width: 104pt;" width="138" /> <col style="width: 94pt;" width="125" /> <col style="width: 89pt;" width="118" /> <col style="width: 99pt;" width="132" /> <col style="width: 94pt;" width="125" /> </colgroup>
+<tbody>
+<tr>
+<td rowspan="2" width="231" height="78">Путь следования</td>
+<td colspan="6" width="757">Цены на тентованные автомобили, руб с учетом НДС</td>
+</tr>
+<tr>
+<td height="42">Расстояние,&nbsp; км</td>
+<td>До 1,5 тонны</td>
+<td>3 тонны</td>
+<td>5 тонн</td>
+<td>5-10 тонн</td>
+<td>10-20 тонн</td>
+</tr>
+<tr>
+<td height="20">Санкт-Петербург</td>
+<td style="text-align: center;">715</td>
+<td style="text-align: center;">22400</td>
+<td style="text-align: center;">24400</td>
+<td style="text-align: center;">29300</td>
+<td style="text-align: center;">36600</td>
+<td style="text-align: center;">40700</td>
+</tr>
+<tr>
+<td height="20">Абакан</td>
+<td style="text-align: center;">4247</td>
+<td style="text-align: center;">133100</td>
+<td style="text-align: center;">145200</td>
+<td style="text-align: center;">174300</td>
+<td style="text-align: center;">217900</td>
+<td style="text-align: center;">242100</td>
+</tr>
+<tr>
+<td height="20">Барнаул</td>
+<td style="text-align: center;">3582</td>
+<td style="text-align: center;">112300</td>
+<td style="text-align: center;">122500</td>
+<td style="text-align: center;">147000</td>
+<td style="text-align: center;">183700</td>
+<td style="text-align: center;">204200</td>
+</tr>
+<tr>
+<td height="20">Белгород</td>
+<td style="text-align: center;">667</td>
+<td style="text-align: center;">19100</td>
+<td style="text-align: center;">20800</td>
+<td style="text-align: center;">24900</td>
+<td style="text-align: center;">31200</td>
+<td style="text-align: center;">34600</td>
+</tr>
+<tr>
+<td height="20">Владивосток</td>
+<td style="text-align: center;">9045</td>
+<td style="text-align: center;">283600</td>
+<td style="text-align: center;">309300</td>
+<td style="text-align: center;">371200</td>
+<td style="text-align: center;">464000</td>
+<td style="text-align: center;">515600</td>
+</tr>
+<tr>
+<td height="20">Волгоград</td>
+<td style="text-align: center;">970</td>
+<td style="text-align: center;">30400</td>
+<td style="text-align: center;">33200</td>
+<td style="text-align: center;">39800</td>
+<td style="text-align: center;">49700</td>
+<td style="text-align: center;">55300</td>
+</tr>
+<tr>
+<td height="20">Воронеж</td>
+<td style="text-align: center;">524</td>
+<td style="text-align: center;">16400</td>
+<td style="text-align: center;">17900</td>
+<td style="text-align: center;">21500</td>
+<td style="text-align: center;">26900</td>
+<td style="text-align: center;">29800</td>
+</tr>
+<tr>
+<td height="20">Домодедово</td>
+<td style="text-align: center;">41</td>
+<td style="text-align: center;">4300</td>
+<td style="text-align: center;">4700</td>
+<td style="text-align: center;">5600</td>
+<td style="text-align: center;">7000</td>
+<td style="text-align: center;">7800</td>
+</tr>
+<tr>
+<td height="20">Екатеринбург</td>
+<td style="text-align: center;">1792</td>
+<td style="text-align: center;">56200</td>
+<td style="text-align: center;">61300</td>
+<td style="text-align: center;">73500</td>
+<td style="text-align: center;">91900</td>
+<td style="text-align: center;">102100</td>
+</tr>
+<tr>
+<td height="20">Иркутск</td>
+<td style="text-align: center;">5193</td>
+<td style="text-align: center;">162800</td>
+<td style="text-align: center;">177600</td>
+<td style="text-align: center;">213100</td>
+<td style="text-align: center;">266400</td>
+<td style="text-align: center;">296000</td>
+</tr>
+<tr>
+<td height="20">Казань</td>
+<td style="text-align: center;">802</td>
+<td style="text-align: center;">25100</td>
+<td style="text-align: center;">27400</td>
+<td style="text-align: center;">32900</td>
+<td style="text-align: center;">41100</td>
+<td style="text-align: center;">45700</td>
+</tr>
+<tr>
+<td height="20">Калининград</td>
+<td style="text-align: center;">1259</td>
+<td style="text-align: center;">39400</td>
+<td style="text-align: center;">43000</td>
+<td style="text-align: center;">51600</td>
+<td style="text-align: center;">64600</td>
+<td style="text-align: center;">71700</td>
+</tr>
+<tr>
+<td height="20">Калуга</td>
+<td style="text-align: center;">190</td>
+<td style="text-align: center;">10600</td>
+<td style="text-align: center;">11600</td>
+<td style="text-align: center;">13900</td>
+<td style="text-align: center;">17400</td>
+<td style="text-align: center;">19300</td>
+</tr>
+<tr>
+<td height="20">Кемерово</td>
+<td style="text-align: center;">3610</td>
+<td style="text-align: center;">113200</td>
+<td style="text-align: center;">123400</td>
+<td style="text-align: center;">148100</td>
+<td style="text-align: center;">185200</td>
+<td style="text-align: center;">205700</td>
+</tr>
+<tr>
+<td height="20">Керч</td>
+<td style="text-align: center;">1525</td>
+<td style="text-align: center;">68800</td>
+<td style="text-align: center;">75000</td>
+<td style="text-align: center;">90000</td>
+<td style="text-align: center;">112500</td>
+<td style="text-align: center;">125000</td>
+</tr>
+<tr>
+<td height="20">Киров</td>
+<td style="text-align: center;">957</td>
+<td style="text-align: center;">30000</td>
+<td style="text-align: center;">32700</td>
+<td style="text-align: center;">39200</td>
+<td style="text-align: center;">49100</td>
+<td style="text-align: center;">54500</td>
+</tr>
+<tr>
+<td height="20">Краснодар</td>
+<td style="text-align: center;">1345</td>
+<td style="text-align: center;">42100</td>
+<td style="text-align: center;">46000</td>
+<td style="text-align: center;">55200</td>
+<td style="text-align: center;">69000</td>
+<td style="text-align: center;">76600</td>
+</tr>
+<tr>
+<td height="20">Красноярск</td>
+<td style="text-align: center;">4139</td>
+<td style="text-align: center;">129700</td>
+<td style="text-align: center;">141500</td>
+<td style="text-align: center;">169800</td>
+<td style="text-align: center;">212300</td>
+<td style="text-align: center;">235900</td>
+</tr>
+<tr>
+<td height="20">Курск</td>
+<td style="text-align: center;">531</td>
+<td style="text-align: center;">15200</td>
+<td style="text-align: center;">16600</td>
+<td style="text-align: center;">19900</td>
+<td style="text-align: center;">24800</td>
+<td style="text-align: center;">27600</td>
+</tr>
+<tr>
+<td height="20">Магадан</td>
+<td style="text-align: center;">10200</td>
+<td style="text-align: center;">319700</td>
+<td style="text-align: center;">348800</td>
+<td style="text-align: center;">418600</td>
+<td style="text-align: center;">523200</td>
+<td style="text-align: center;">581400</td>
+</tr>
+<tr>
+<td height="20">Магнитогорск</td>
+<td style="text-align: center;">1691</td>
+<td style="text-align: center;">53000</td>
+<td style="text-align: center;">57800</td>
+<td style="text-align: center;">69400</td>
+<td style="text-align: center;">86700</td>
+<td style="text-align: center;">96400</td>
+</tr>
+<tr>
+<td height="20">Махачкала</td>
+<td style="text-align: center;">1917</td>
+<td style="text-align: center;">60100</td>
+<td style="text-align: center;">65500</td>
+<td style="text-align: center;">78600</td>
+<td style="text-align: center;">98300</td>
+<td style="text-align: center;">109200</td>
+</tr>
+<tr>
+<td height="20">Мурманск</td>
+<td style="text-align: center;">1873</td>
+<td style="text-align: center;">58700</td>
+<td style="text-align: center;">64000</td>
+<td style="text-align: center;">76800</td>
+<td style="text-align: center;">96100</td>
+<td style="text-align: center;">106700</td>
+</tr>
+<tr>
+<td height="20">Нижневартовск</td>
+<td style="text-align: center;">3111</td>
+<td style="text-align: center;">97500</td>
+<td style="text-align: center;">106400</td>
+<td style="text-align: center;">127700</td>
+<td style="text-align: center;">159600</td>
+<td style="text-align: center;">177300</td>
+</tr>
+<tr>
+<td height="20">Нижний Новгород</td>
+<td style="text-align: center;">417</td>
+<td style="text-align: center;">13100</td>
+<td style="text-align: center;">14300</td>
+<td style="text-align: center;">17100</td>
+<td style="text-align: center;">21400</td>
+<td style="text-align: center;">23800</td>
+</tr>
+<tr>
+<td height="20">Новороссийск</td>
+<td style="text-align: center;">1508</td>
+<td style="text-align: center;">47200</td>
+<td style="text-align: center;">51500</td>
+<td style="text-align: center;">61800</td>
+<td style="text-align: center;">77300</td>
+<td style="text-align: center;">85900</td>
+</tr>
+<tr>
+<td height="20">Новосибирск</td>
+<td style="text-align: center;">3358</td>
+<td style="text-align: center;">105300</td>
+<td style="text-align: center;">114800</td>
+<td style="text-align: center;">137800</td>
+<td style="text-align: center;">172200</td>
+<td style="text-align: center;">191400</td>
+</tr>
+<tr>
+<td height="20">Омск</td>
+<td style="text-align: center;">2702</td>
+<td style="text-align: center;">84700</td>
+<td style="text-align: center;">92400</td>
+<td style="text-align: center;">110900</td>
+<td style="text-align: center;">138600</td>
+<td style="text-align: center;">154000</td>
+</tr>
+<tr>
+<td height="20">Пенза</td>
+<td style="text-align: center;">640</td>
+<td style="text-align: center;">20100</td>
+<td style="text-align: center;">21900</td>
+<td style="text-align: center;">26300</td>
+<td style="text-align: center;">32800</td>
+<td style="text-align: center;">36500</td>
+</tr>
+<tr>
+<td height="20">Ростов (Ярославская область)</td>
+<td style="text-align: center;">216</td>
+<td style="text-align: center;">9000</td>
+<td style="text-align: center;">9800</td>
+<td style="text-align: center;">11800</td>
+<td style="text-align: center;">14700</td>
+<td style="text-align: center;">16400</td>
+</tr>
+<tr>
+<td height="20">Ростов-На-Дону</td>
+<td style="text-align: center;">1074</td>
+<td style="text-align: center;">33700</td>
+<td style="text-align: center;">36700</td>
+<td style="text-align: center;">44100</td>
+<td style="text-align: center;">55100</td>
+<td style="text-align: center;">61200</td>
+</tr>
+<tr>
+<td height="20">Рязань</td>
+<td style="text-align: center;">206</td>
+<td style="text-align: center;">11500</td>
+<td style="text-align: center;">12600</td>
+<td style="text-align: center;">15100</td>
+<td style="text-align: center;">18900</td>
+<td style="text-align: center;">21000</td>
+</tr>
+<tr>
+<td height="20">Самара</td>
+<td style="text-align: center;">1047</td>
+<td style="text-align: center;">32800</td>
+<td style="text-align: center;">35800</td>
+<td style="text-align: center;">42900</td>
+<td style="text-align: center;">53700</td>
+<td style="text-align: center;">59600</td>
+</tr>
+<tr>
+<td height="20">Саратов</td>
+<td style="text-align: center;">836</td>
+<td style="text-align: center;">26200</td>
+<td style="text-align: center;">28600</td>
+<td style="text-align: center;">34300</td>
+<td style="text-align: center;">42900</td>
+<td style="text-align: center;">47600</td>
+</tr>
+<tr>
+<td height="20">Севастополь</td>
+<td style="text-align: center;">1479</td>
+<td style="text-align: center;">66700</td>
+<td style="text-align: center;">72700</td>
+<td style="text-align: center;">87300</td>
+<td style="text-align: center;">109100</td>
+<td style="text-align: center;">121200</td>
+</tr>
+<tr>
+<td height="20">Симферополь</td>
+<td style="text-align: center;">1398</td>
+<td style="text-align: center;">63000</td>
+<td style="text-align: center;">68800</td>
+<td style="text-align: center;">82500</td>
+<td style="text-align: center;">103100</td>
+<td style="text-align: center;">114600</td>
+</tr>
+<tr>
+<td height="20">Смоленск</td>
+<td style="text-align: center;">401</td>
+<td style="text-align: center;">13900</td>
+<td style="text-align: center;">15100</td>
+<td style="text-align: center;">18100</td>
+<td style="text-align: center;">22700</td>
+<td style="text-align: center;">25200</td>
+</tr>
+<tr>
+<td height="20">Сочи</td>
+<td style="text-align: center;">1621</td>
+<td style="text-align: center;">50800</td>
+<td style="text-align: center;">55400</td>
+<td style="text-align: center;">66500</td>
+<td style="text-align: center;">83100</td>
+<td style="text-align: center;">92400</td>
+</tr>
+<tr>
+<td height="20">Сургут</td>
+<td style="text-align: center;">2896</td>
+<td style="text-align: center;">90800</td>
+<td style="text-align: center;">99000</td>
+<td style="text-align: center;">118800</td>
+<td style="text-align: center;">148500</td>
+<td style="text-align: center;">165000</td>
+</tr>
+<tr>
+<td height="20">Тверь</td>
+<td style="text-align: center;">176</td>
+<td style="text-align: center;">9800</td>
+<td style="text-align: center;">10700</td>
+<td style="text-align: center;">12900</td>
+<td style="text-align: center;">16100</td>
+<td style="text-align: center;">17900</td>
+</tr>
+<tr>
+<td height="20">Тольятти</td>
+<td style="text-align: center;">985</td>
+<td style="text-align: center;">30900</td>
+<td style="text-align: center;">33700</td>
+<td style="text-align: center;">40400</td>
+<td style="text-align: center;">50500</td>
+<td style="text-align: center;">56100</td>
+</tr>
+<tr>
+<td height="20">Томск</td>
+<td style="text-align: center;">3616</td>
+<td style="text-align: center;">113300</td>
+<td style="text-align: center;">123700</td>
+<td style="text-align: center;">148400</td>
+<td style="text-align: center;">185500</td>
+<td style="text-align: center;">206100</td>
+</tr>
+<tr>
+<td height="20">Тула</td>
+<td style="text-align: center;">183</td>
+<td style="text-align: center;">10200</td>
+<td style="text-align: center;">11100</td>
+<td style="text-align: center;">13400</td>
+<td style="text-align: center;">16700</td>
+<td style="text-align: center;">18600</td>
+</tr>
+<tr>
+<td height="20">Тюмень</td>
+<td style="text-align: center;">2121</td>
+<td style="text-align: center;">66500</td>
+<td style="text-align: center;">72500</td>
+<td style="text-align: center;">87000</td>
+<td style="text-align: center;">108800</td>
+<td style="text-align: center;">120900</td>
+</tr>
+<tr>
+<td height="20">Уфа</td>
+<td style="text-align: center;">1349</td>
+<td style="text-align: center;">42300</td>
+<td style="text-align: center;">46100</td>
+<td style="text-align: center;">55400</td>
+<td style="text-align: center;">69200</td>
+<td style="text-align: center;">76900</td>
+</tr>
+<tr>
+<td height="20">Хабаровск</td>
+<td style="text-align: center;">8292</td>
+<td style="text-align: center;">259900</td>
+<td style="text-align: center;">283600</td>
+<td style="text-align: center;">340300</td>
+<td style="text-align: center;">425300</td>
+<td style="text-align: center;">472600</td>
+</tr>
+<tr>
+<td height="20">Химки</td>
+<td style="text-align: center;">22</td>
+<td style="text-align: center;">3300</td>
+<td style="text-align: center;">3600</td>
+<td style="text-align: center;">4300</td>
+<td style="text-align: center;">5400</td>
+<td style="text-align: center;">6000</td>
+</tr>
+<tr>
+<td height="20">Чебоксары</td>
+<td style="text-align: center;">656</td>
+<td style="text-align: center;">20600</td>
+<td style="text-align: center;">22400</td>
+<td style="text-align: center;">26900</td>
+<td style="text-align: center;">33600</td>
+<td style="text-align: center;">37400</td>
+</tr>
+<tr>
+<td height="20">Челябинск</td>
+<td style="text-align: center;">1781</td>
+<td style="text-align: center;">55800</td>
+<td style="text-align: center;">60900</td>
+<td style="text-align: center;">73100</td>
+<td style="text-align: center;">91300</td>
+<td style="text-align: center;">101500</td>
+</tr>
+<tr>
+<td height="20">Якутск</td>
+<td style="text-align: center;">8275</td>
+<td style="text-align: center;">259400</td>
+<td style="text-align: center;">283000</td>
+<td style="text-align: center;">339600</td>
+<td style="text-align: center;">424500</td>
+<td style="text-align: center;">471700</td>
+</tr>
+</tbody>
+</table>
+<p><span style="text-decoration: underline;"><em></em></span>Мы гарантируем безопасность и своевременность автоперевозки груза. И все это благодаря постоянному контролю, начиная от момента погрузки товара, и заканчивая его передачей в конечном пункте. Узнавать местонахождение перевозимой продукции на всем пути ее доставки можете и вы, стоит лишь позвонить нашим менеджерам или написать им сообщение.</p>
+<p>По желанию заказчика груз перед автоперевозкой может быть доупакован и опломбирован, и это только одна из многочисленных дополнительных услуг, ознакомиться с которыми вы можете на нашем сайте или, позвонив по телефону 8 800 707-08-81. Грузоперевозки с компанией &laquo;Акколада&raquo; - это быстро, надежно, недорого.</p>	</div>
+
+	
+						</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+	<section class="bottom3">
+		<div class="container">
+			<div class="row">
+				            <div class="module etaps col-md-12" id="mod_95">
+            <div>
+                                    <div class="page-head">
+                        <div class="modtitle">
+                            Этапы нашей работы                        </div>
+                    </div>
+                                
+
+<div class="custom"  >
+	 
+<div class="opdesc">Вас ждет всего <strong>три шага</strong></div> 
+ 
+<ul id="steps">
+<li id="steps_1">Ваш звонок</li>
+<li class="steps_str">&nbsp;</li>
+<li id="steps_2">Обработка<br />заявки</li>
+<li class="steps_str">&nbsp;</li>
+<li id="steps_3">Доставка транспорта<br /><span>в течение 1 часа!</span></li>
+</ul></div>
+            </div>
+        </div>
+                <div class="module form_feedback btm col-md-4" id="mod_96">
+            <div>
+                                    <div class="page-head">
+                        <div class="modtitle">
+                            Закажите перевозку!                        </div>
+                    </div>
+                                <div class="rsform">
+	<form method="post"  id="userForm" class="order_the_transportation_bottom" action="457-avtoperevozki-gruzov-po-rossii"><fieldset class="formFieldset">
+		<div id="rsform_error_1" style="display: none;"></div>
+		<!-- Do not remove this ID, it is used to identify the page so that the pagination script can work correctly -->
+	<ol class="formContainer" id="rsform_1_page_0">
+		<li class="rsform-block rsform-block-header2">
+			<div class="formCaption2"></div>
+			<div class="formBody">Мы вам перезвоним в течение 5 минут<span class="formClr"></span></div>
+			<div class="formDescription"></div>
+		</li>
+		<li class="rsform-block rsform-block-header">
+			<div class="formCaption2"></div>
+			<div class="formBody"><strong class="comagic_phone1">или звоните: 8 (495) 248-00-66</strong><span class="formClr"></span></div>
+			<div class="formDescription"></div>
+		</li>
+		<li class="rsform-block rsform-block-name">
+			<div class="formCaption2">ФИО<strong class="formRequired"></strong></div>
+			<div class="formBody"><input type="text" value="" size="20" name="form[Name]" id="Name" placeholder="ФИО" class="rsform-input-box" /><span class="formClr"><span id="component1" class="formNoError"></span></span></div>
+			<div class="formDescription"></div>
+		</li>
+		<li class="rsform-block rsform-block-phone">
+			<div class="formCaption2">Номер телефона<strong class="formRequired"></strong></div>
+			<div class="formBody"><input type="text" value="" size="20" name="form[Phone]" id="Phone" placeholder="Номер телефона" class="rsform-input-box" /><span class="formClr"><span id="component23" class="formNoError"></span></span></div>
+			<div class="formDescription"></div>
+		</li>
+		<li class="rsform-block rsform-block-submit">
+			<div class="formCaption2"></div>
+			<div class="formBody"><input type="submit" name="form[Submit]" id="Submit" class="btn rsform-submit-button" value="ЗАКАЗАТЬ ПЕРЕВОЗКУ" /><span class="formClr"></span></div>
+			<div class="formDescription"></div>
+		</li>
+		<li class="rsform-block rsform-block-sorlashenie">
+			<div class="formCaption2"></div>
+			<div class="formBody"><small>Нажимая кнопку "заказать перевозку" вы даете согласие на <a href="../politika-konfeditsialnosti">обработку персональных данных</a></small><span class="formClr"></span></div>
+			<div class="formDescription"></div>
+		</li>
+	</ol>
+</fieldset><input type="hidden" name="form[formId]" value="1"/></form><script type="text/javascript">RSFormPro.Ajax.URL = "\/component\/rsform\/?task=ajaxValidate";</script><script type="text/javascript">rsfp_addEvent(window, 'load', function(){var form = rsfp_getForm(1); 
+			var submitElement = RSFormPro.getElementByType(1, 'submit');
+			for (i = 0; i < submitElement.length; i++) {
+				if (RSFormProUtils.hasClass(submitElement[i],'rsform-submit-button')) {
+					RSFormProUtils.addEvent(submitElement[i],'click', (function(event) {
+							event.preventDefault();
+							RSClickedSubmitElement = this;
+							for (j = 0; j < submitElement.length; j++) {
+								submitElement[j].setAttribute('data-disableonsubmit','1');
+							}
+							ajaxValidation(form, undefined);
+					}));
+				}
+			}
+			});
+			</script>
+<script type="text/javascript">
+ajaxExtraValidationScript[1] = function(task, formId, data){ 
+var formComponents = {};
+formComponents[1]='Name';formComponents[23]='Phone';
+ajaxDisplayValidationErrors(formComponents, task, formId, data);
+};
+</script></div>            </div>
+        </div>
+    
+			</div>
+		</div>
+	</section>
+	<section class="bottom4">
+		            <div class="module doverie" id="mod_150">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                                                    <div class="page-head">
+                                <div class="modtitle">
+                                    Нам доверяют                                </div>
+                            </div>
+                                                
+
+<div class="custom"  >
+	 
+<noindex> 
+    <ul class="nav nav-tabs"> 
+        <li class="active"><a data-toggle="tab" href="457-avtoperevozki-gruzov-po-rossii#panel1"><span>Отзывы</span></a></li> 
+        <li><a data-toggle="tab" href="457-avtoperevozki-gruzov-po-rossii#panel2"><span>Мы в СМИ</span></a></li> 
+        <li><a data-toggle="tab" href="457-avtoperevozki-gruzov-po-rossii#panel3"><span>Наши партнеры</span></a></li> 
+    </ul> 
+    <div class="tab-content"> 
+        <div id="panel1" class="tab-pane fade in active"> 
+            		<div class="moduletable opinions">
+						<div class="slider slider_94">
+            <div class="jn">
+            <div class="im">
+                                    <img src="../img/75x75/e/otzivtrade-59293a55870dd44e5a6c970a4464804f.jpg" alt="Safety Trade | Снежана Филиппович" />                            </div>
+            <div class="desc">
+                                    <div class="ophead">
+                        <strong>Safety Trade </strong> <span> Снежана Филиппович</span>                    </div>
+                                                    <div class="jn-intro">
+                                                    ООО "С-Трейд" выражает благодарность коллективу ООО "Акколада" за профессиональное оказание услуг. В частности: оперативная обработка заявки и дальнейшее ее оформление (менеджер Ковалев Игорь), подача ТС на погрузку за 40 минут до назначенного времени, быстрая доставка груза.                                                                    </div>
+                            </div>
+        </div>
+            <div class="jn">
+            <div class="im">
+                                    <img src="../img/75x75/7/cbrossii-de29b344678c5eee255136c82e307c48.jpg" alt="Центральный Банк России | Олег К Начальник автотранспортного подразделения " />                            </div>
+            <div class="desc">
+                                    <div class="ophead">
+                        <strong>Центральный Банк России </strong> <span> Олег К Начальник автотранспортного подразделения </span>                    </div>
+                                                    <div class="jn-intro">
+                                                    Центральный Банк Российской Федерации благодарит Дмитрия Костюка за качественно проделанную работу по перевозке грузов. Также хочется отметить, что компания &laquo;Акколада&raquo; выполнила все условия по предоставлению документов, что может не каждая компания!                                                                    </div>
+                            </div>
+        </div>
+            <div class="jn">
+            <div class="im">
+                                    <img src="../img/75x75/9/rosneftlogoakkolada-1b92d58be49b32c54f221c5c6db60bba.jpg" alt="Нефтегазовая компания Роснефть | Алексей Ченцов" />                            </div>
+            <div class="desc">
+                                    <div class="ophead">
+                        <strong>Нефтегазовая компания Роснефть </strong> <span> Алексей Ченцов</span>                    </div>
+                                                    <div class="jn-intro">
+                                                    Компания благодарит транспортную компанию &laquo;Акколада&raquo;! Нам нужно было перевезти авиационное техническое имущество. Доставка была выполнена точно по времени, в соответствии с договором. Спасибо логистам!                                                                    </div>
+                            </div>
+        </div>
+            <div class="jn">
+            <div class="im">
+                                    <img src="../img/75x75/b/profit-4dd0b217f9b8ee3e4ae31121c01dbade.jpg" alt="ПРОФИТ продюсерская фирма И. Толстунова | Наталья К." />                            </div>
+            <div class="desc">
+                                    <div class="ophead">
+                        <strong>ПРОФИТ продюсерская фирма И. Толстунова </strong> <span> Наталья К.</span>                    </div>
+                                                    <div class="jn-intro">
+                                                    Компания Акколада осуществляла для нас перевозки декораций для нашей новой картины. Все на высшем уровне, сервис и цены. Будем продолжать пользоваться вашими услугами.                                                                    </div>
+                            </div>
+        </div>
+            <div class="jn">
+            <div class="im">
+                                    <img src="../img/75x75/b/alfametperevozka-119a2e16d280069dc3c6ab541892a3c9.jpg" alt="Анна Изотова АЛЬФАМЕТ | Металлопродукция" />                            </div>
+            <div class="desc">
+                                    <div class="ophead">
+                        <strong>Анна Изотова АЛЬФАМЕТ </strong> <span> Металлопродукция</span>                    </div>
+                                                    <div class="jn-intro">
+                                                    Компания "Акколада" выполняет перевозки очень оперативно и в срок! Перевозят наши металлоизделия, трубы и профнастил по Москве, области а также по регионам России.                                                                    </div>
+                            </div>
+        </div>
+            <div class="jn">
+            <div class="im">
+                                    <img src="../img/75x75/6/perevozkayutk-fdb303c037f39692174e929e6c036ef8.jpg" alt="ЮТК | Южная Торговая Компания" />                            </div>
+            <div class="desc">
+                                    <div class="ophead">
+                        <strong>ЮТК </strong> <span> Южная Торговая Компания</span>                    </div>
+                                                    <div class="jn-intro">
+                                                    Мы работаем с компанией ООО "Акколада" на протяжении 3 лет. Перевозят наши станки по всей России по очень хорошим ставкам, такое чувство что для данных ребят не существует невыполнимых задач                                                                    </div>
+                            </div>
+        </div>
+            <div class="jn">
+            <div class="im">
+                                    <img src="../img/75x75/f/perevozkaletual-c5c23433a93d9e46b9a6d28b658b9008.jpg" alt="Л'Этуаль | парфюмерно-косметические магазины" />                            </div>
+            <div class="desc">
+                                    <div class="ophead">
+                        <strong>Л'Этуаль </strong> <span> парфюмерно-косметические магазины</span>                    </div>
+                                                    <div class="jn-intro">
+                                                    Компания Акколада осуществляет перевозку косметики и парфюмерии по Москве и Московской области, водители отлично справляются с экспедированием грузов.                                                                    </div>
+                            </div>
+        </div>
+            <div class="jn">
+            <div class="im">
+                                    <img src="../img/75x75/f/avtoperevozkaselyatino-5db0610c4e2231128b7a4fc34282a1c6.jpg" alt="Алексей Б.  МПК Селятино | производитель консервов и паштетов" />                            </div>
+            <div class="desc">
+                                    <div class="ophead">
+                        <strong>Алексей Б.  МПК Селятино </strong> <span> производитель консервов и паштетов</span>                    </div>
+                                                    <div class="jn-intro">
+                                                    Компания Акколада осуществляет грузоперевозки продуктов питания по России, Москве и Московской области, для нас очень важно что перевозки осуществляются по всем нормам безопасности и доставка машины очень оперативна.                                                                    </div>
+                            </div>
+        </div>
+            <div class="jn">
+            <div class="im">
+                                    <img src="../img/75x75/3/belagromash-05e55b92ebffba306761b7ca354cefbf.jpg" alt="Диана З. Белагромаш | производитель сельскохоз техники" />                            </div>
+            <div class="desc">
+                                    <div class="ophead">
+                        <strong>Диана З. Белагромаш </strong> <span> производитель сельскохоз техники</span>                    </div>
+                                                    <div class="jn-intro">
+                                                    Сотрудничаем с Акколада на постоянной основе, постоянно перевозят нам негабаритные сельхозорудия, всегда все четко и вовремя, даже не смотря на разницу во времени, сотрудники всегда на связи!                                                                    </div>
+                            </div>
+        </div>
+            <div class="jn">
+            <div class="im">
+                                    <img src="../img/75x75/0/zavodenergostal-bceb0c5f32aa949b801d89e63840f2f5.jpg" alt="ЭнергоСталь | Завод металлоконструкций" />                            </div>
+            <div class="desc">
+                                    <div class="ophead">
+                        <strong>ЭнергоСталь </strong> <span> Завод металлоконструкций</span>                    </div>
+                                                    <div class="jn-intro">
+                                                    Работаем с транспортной компанией "Акколада" на протяжении 3 лет, постоянно осуществляем перевозки негабаритных грузов. Компания сократила расходы на проектные грузоперевозки. Успехов Вам и процветания!                                                                    </div>
+                            </div>
+        </div>
+            <div class="jn">
+            <div class="im">
+                                    <img src="../img/75x75/9/bigcorporationindustry-c63f145df3c70d2ca2a6242f62530651.jpg" alt="Иван Гуторов ЗАО БиГ  | Металлические и железобетонные конструкции" />                            </div>
+            <div class="desc">
+                                    <div class="ophead">
+                        <strong>Иван Гуторов ЗАО БиГ  </strong> <span> Металлические и железобетонные конструкции</span>                    </div>
+                                                    <div class="jn-intro">
+                                                    Работаем с Акколадой 3 года, за время сотрудничества менеджеры "Акколады" минимизировали расходы на доставку!                                                                    </div>
+                            </div>
+        </div>
+            <div class="jn">
+            <div class="im">
+                                    <img src="../img/75x75/5/leroymerlin-8e85c3c0d2188ab28c6eb75a43f519c4.jpg" alt="Леруа Мерлен | Продажа строительных материалов" />                            </div>
+            <div class="desc">
+                                    <div class="ophead">
+                        <strong>Леруа Мерлен </strong> <span> Продажа строительных материалов</span>                    </div>
+                                                    <div class="jn-intro">
+                                                    Компания Акколада Транс Сервис доставляет нам строительные материалы всегда в срок.                                                                    </div>
+                            </div>
+        </div>
+            <div class="jn">
+            <div class="im">
+                                    <img src="../img/75x75/c/shz-19e62c4c8a7e020161cec8dc22464ff7.jpg" alt="Виталий Щ. С.Х.З. | Ступинский химический завод" />                            </div>
+            <div class="desc">
+                                    <div class="ophead">
+                        <strong>Виталий Щ. С.Х.З. </strong> <span> Ступинский химический завод</span>                    </div>
+                                                    <div class="jn-intro">
+                                                    Транспортная компания &laquo;Акколада&raquo;, является официальным перевозчиком грузов Ступинского завода.                                                                    </div>
+                            </div>
+        </div>
+            <div class="jn">
+            <div class="im">
+                                    <img src="../img/75x75/9/samin-400e434efedf2711f31b43e368925288.jpg" alt="Мария К. САМИН | изготовитель металлокострукций" />                            </div>
+            <div class="desc">
+                                    <div class="ophead">
+                        <strong>Мария К. САМИН </strong> <span> изготовитель металлокострукций</span>                    </div>
+                                                    <div class="jn-intro">
+                                                    Компания "Акколада" помогла перевезти в срок крупногабаритные конструкции. Сотрудники сами оформили докуенты, и организовали наиболее выгодный транспортный путь!                                                                    </div>
+                            </div>
+        </div>
+            <div class="jn">
+            <div class="im">
+                                    <img src="../img/75x75/4/grandprofil-940466480b20daed286252b38b73690f.jpg" alt="GRAND PROFIL | завод кровельных материалов" />                            </div>
+            <div class="desc">
+                                    <div class="ophead">
+                        <strong>GRAND PROFIL </strong> <span> завод кровельных материалов</span>                    </div>
+                                                    <div class="jn-intro">
+                                                    Акколада - надежная компания, на которую можно положиться. Всегда подходит ответственно к перевозке наших грузов.                                                                    </div>
+                            </div>
+        </div>
+            <div class="jn">
+            <div class="im">
+                                    <img src="../img/75x75/d/belshina-2c3712d6765df7b6f2244c96d5998034.jpg" alt=" Алексей Ф. БЕЛШИНА | производитель автомобильных шин" />                            </div>
+            <div class="desc">
+                                    <div class="ophead">
+                        <strong> Алексей Ф. БЕЛШИНА </strong> <span> производитель автомобильных шин</span>                    </div>
+                                                    <div class="jn-intro">
+                                                    Всегда оперативно решают наши проблемы. Очень ценим за лояльное отношение к ценообразованию.                                                                    </div>
+                            </div>
+        </div>
+            <div class="jn">
+            <div class="im">
+                                    <img src="../img/75x75/7/rdsgroup-273bfe018cd24952582ea546885e65ed.jpg" alt="RDS group | Анна Рогожена" />                            </div>
+            <div class="desc">
+                                    <div class="ophead">
+                        <strong>RDS group </strong> <span> Анна Рогожена</span>                    </div>
+                                                    <div class="jn-intro">
+                                                    Хочу выразить благодарность за отзывчивый коллектив, который возьмет перевозку грузов  даже в самые дальние места нашей страны. Энтузиазм и отзывчивость &ndash; это то, что отличает компанию от других перевозчиков.                                                                    </div>
+                            </div>
+        </div>
+            <div class="jn">
+            <div class="im">
+                                    <img src="../img/75x75/3/teksvyazinginiring-47a44fa2fbd0eebc3ae49a9fc4369366.jpg" alt="ТЭКсвязьинжиниринг | нефтегазовый комплекс" />                            </div>
+            <div class="desc">
+                                    <div class="ophead">
+                        <strong>ТЭКсвязьинжиниринг </strong> <span> нефтегазовый комплекс</span>                    </div>
+                                                    <div class="jn-intro">
+                                                    C компанией "Акколада" сотрудничаем давно, осуществляют нам негабаритные перевозки по России! Всегда все четко и без нареканий! Успехов Вам и процветания!                                                                    </div>
+                            </div>
+        </div>
+            <div class="jn">
+            <div class="im">
+                                    <img src="../img/75x75/0/tehnonikol-094ce097aea7b766c5ea4ea52b48ce93.jpg" alt="ТехноНИКОЛЬ | строительные материалы" />                            </div>
+            <div class="desc">
+                                    <div class="ophead">
+                        <strong>ТехноНИКОЛЬ </strong> <span> строительные материалы</span>                    </div>
+                                                    <div class="jn-intro">
+                                                    Доставка машины в течении часа, оперативная выгрузка плотно сотрудничаем с компанией "Акколада".                                                                    </div>
+                            </div>
+        </div>
+            <div class="jn">
+            <div class="im">
+                                    <img src="../img/75x75/3/3-eb16c92ae886c10b008000c1822970d3.jpg" alt="Юлия С. &quot;Вельский ЛЕС&quot; | начальник отдела логистики" />                            </div>
+            <div class="desc">
+                                    <div class="ophead">
+                        <strong>Юлия С. "Вельский ЛЕС" </strong> <span> начальник отдела логистики</span>                    </div>
+                                                    <div class="jn-intro">
+                                                    Осуществляем перевозки через "Акколада Транс Сервис" уже больше года. Компания проверенная и сейчас является нашим генеральным перевозчиком! Спасибо за плодотворное сотрудничество!                                                                    </div>
+                            </div>
+        </div>
+            <div class="jn">
+            <div class="im">
+                                    <img src="../img/75x75/5/5-7ed4952871b2f8726229051ef2ab2758.jpg" alt="Алексей Е. &quot;ТрансАктив&quot; | начальник отдела" />                            </div>
+            <div class="desc">
+                                    <div class="ophead">
+                        <strong>Алексей Е. "ТрансАктив" </strong> <span> начальник отдела</span>                    </div>
+                                                    <div class="jn-intro">
+                                                    ООО "Акколада Транс Сервис" зарекомендовала себя как партнер, на которого можно положиться. Работаем 2 года. Спасибо за компетентность!                                                                    </div>
+                            </div>
+        </div>
+            <div class="jn">
+            <div class="im">
+                                    <img src="../img/75x75/0/10-c149c8e724095aeed9272ee1417c80d9.jpg" alt="Екатерина Ш. ЮМТ-Индастри  | логист" />                            </div>
+            <div class="desc">
+                                    <div class="ophead">
+                        <strong>Екатерина Ш. ЮМТ-Индастри  </strong> <span> логист</span>                    </div>
+                                                    <div class="jn-intro">
+                                                    Грузы всегда в срок, с документами порядок, претензий нет. Спасибо за деятельность в течение уже 2 лет без хлопот!                                                                    </div>
+                            </div>
+        </div>
+            <div class="jn">
+            <div class="im">
+                                    <img src="../img/75x75/0/12-9b9e36141ccc5c02397e7cd5f302edaf.jpg" alt="Анастасия П. SP-tyre | начальник отдела" />                            </div>
+            <div class="desc">
+                                    <div class="ophead">
+                        <strong>Анастасия П. SP-tyre </strong> <span> начальник отдела</span>                    </div>
+                                                    <div class="jn-intro">
+                                                    Совершенно не надо контролировать ребят! Все сами знают! Мы вместе уже 2,5 года)                                                                    </div>
+                            </div>
+        </div>
+    </div>
+		</div>
+	 
+        </div> 
+        <div id="panel2" class="tab-pane fade"> 
+            		<div class="moduletable smi">
+						<div class="slider slider_143">
+            <div class="jn">
+                            <a data-modal-height="90%" data-modal-width="90%" data-modal-iframe="true" class="mod modal_link" href="../akkolada-v-smi/448-perevozka-avtomobilej-kommersant-fm?tmpl=form&amp;ml=1&amp;iframe=1" data-modal-iframe="true" data-modal-width="95%" data-modal-height="95%" data-modal-class-name="no_title"><img src="../img/340x170/9/perevozkaautokomm-a8c84619988e71b5a3c9a4b95e0d2705.jpg" alt="Перевозка автомобилей / Коммерсант FM" /></a>
+                        <div class="desc">
+                                <a data-modal-height="90%" data-modal-width="90%" data-modal-iframe="true" class="mod modal_link" href="../akkolada-v-smi/448-perevozka-avtomobilej-kommersant-fm?tmpl=form&amp;ml=1&amp;iframe=1" data-modal-iframe="true" data-modal-width="95%" data-modal-height="95%" data-modal-class-name="no_title">Перевозка автомобилей / Коммерсант FM</a>
+                            </div>
+        </div>
+            <div class="jn">
+                            <a data-modal-height="90%" data-modal-width="90%" data-modal-iframe="true" class="mod modal_link" href="../akkolada-v-smi/362-kommersant-ob-akkolade?tmpl=form&amp;ml=1&amp;iframe=1" data-modal-iframe="true" data-modal-width="95%" data-modal-height="95%" data-modal-class-name="no_title"><img src="../img/340x170/4/kompaniyaakkoladaotzivotzyvcovercovercover-e1713aec986d92cb7cd48cc6268fd325.jpg" alt="Коммерсантъ об &quot;Акколаде&quot;" /></a>
+                        <div class="desc">
+                                <a data-modal-height="90%" data-modal-width="90%" data-modal-iframe="true" class="mod modal_link" href="../akkolada-v-smi/362-kommersant-ob-akkolade?tmpl=form&amp;ml=1&amp;iframe=1" data-modal-iframe="true" data-modal-width="95%" data-modal-height="95%" data-modal-class-name="no_title">Коммерсантъ об "Акколаде"</a>
+                            </div>
+        </div>
+            <div class="jn">
+                            <a data-modal-height="90%" data-modal-width="90%" data-modal-iframe="true" class="mod modal_link" href="../akkolada-v-smi/333-vozobnovlenie-tranzita-fur-cherez-polshu-i-ukrainu?tmpl=form&amp;ml=1&amp;iframe=1" data-modal-iframe="true" data-modal-width="95%" data-modal-height="95%" data-modal-class-name="no_title"><img src="../img/340x170/0/akkoladavnovostyahnapervom-6405485259ca30819d3bee210de55d63.jpg" alt="Возобновление грузоперевозок через Польшу и Украину" /></a>
+                        <div class="desc">
+                                <a data-modal-height="90%" data-modal-width="90%" data-modal-iframe="true" class="mod modal_link" href="../akkolada-v-smi/333-vozobnovlenie-tranzita-fur-cherez-polshu-i-ukrainu?tmpl=form&amp;ml=1&amp;iframe=1" data-modal-iframe="true" data-modal-width="95%" data-modal-height="95%" data-modal-class-name="no_title">Возобновление грузоперевозок через Польшу и Украину</a>
+                            </div>
+        </div>
+            <div class="jn">
+                            <a data-modal-height="90%" data-modal-width="90%" data-modal-iframe="true" class="mod modal_link" href="../akkolada-v-smi/332-zaprtet-na-tranzit-fur-rossiya-ukraina-polsha?tmpl=form&amp;ml=1&amp;iframe=1" data-modal-iframe="true" data-modal-width="95%" data-modal-height="95%" data-modal-class-name="no_title"><img src="../img/340x170/2/kommentariynashegospecialistadlyalife-d1f311f1297a555157ef4970385ddff9.jpg" alt="Запрет на транзит фур Россия - Украина - Польша" /></a>
+                        <div class="desc">
+                                <a data-modal-height="90%" data-modal-width="90%" data-modal-iframe="true" class="mod modal_link" href="../akkolada-v-smi/332-zaprtet-na-tranzit-fur-rossiya-ukraina-polsha?tmpl=form&amp;ml=1&amp;iframe=1" data-modal-iframe="true" data-modal-width="95%" data-modal-height="95%" data-modal-class-name="no_title">Запрет на транзит фур Россия - Украина - Польша</a>
+                            </div>
+        </div>
+    </div>
+		</div>
+	 
+        </div> 
+        <div id="panel3" class="tab-pane fade"> 
+            		<div class="moduletable partners">
+						<div class="slider slider_93">
+            <div class="jn">
+            <div class="im">
+                            </div>
+            <div class="desc">
+                                                    <div class="jn-intro">
+                                                    <p><img src="../images/partners/rzhd.jpg" alt="rzhd" /></p>                                                                    </div>
+                            </div>
+        </div>
+            <div class="jn">
+            <div class="im">
+                            </div>
+            <div class="desc">
+                                                    <div class="jn-intro">
+                                                    <p><img src="../images/partners/fond.jpg" alt="fond" /></p>                                                                    </div>
+                            </div>
+        </div>
+            <div class="jn">
+            <div class="im">
+                            </div>
+            <div class="desc">
+                                                    <div class="jn-intro">
+                                                    <p><img src="../images/partners/vorota.jpg" alt="vorota" /></p>                                                                    </div>
+                            </div>
+        </div>
+    </div>
+		</div>
+	 
+        </div> 
+    </div> 
+</noindex> 
+</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                <div class="module btmmenu hidden-xs" id="mod_97">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                                                <ul class="nav menu">
+<li class="item-128 deeper parent"><a href="../avtoperevozki" >Автоперевозки</a><ul class="nav-child unstyled small"><li class="item-132"><a href="../avtoperevozki/negabaritnye-perevozki" >Негабаритные перевозки</a></li><li class="item-148"><a href="../avtoperevozki/dostavka-furami" >Перевозка фурами</a></li><li class="item-135"><a href="../avtoperevozki/kontejnernye-perevozki" >Контейнерные перевозки</a></li><li class="item-425"><a href="../avtoperevozki/gazel" >Квартирные и офисные перевозки</a></li><li class="item-426"><a href="../avtoperevozki/gruzoperevozki-po-gorodu" >Грузоперевозки по городу</a></li><li class="item-145"><a href="../avtoperevozki/dostavka-sbornykh-gruzov" >Доставка сборных грузов</a></li></ul></li><li class="item-517 deeper parent"><a href="../spetsificheskie-perevozki/237-refrizheratornye-perevozki" >Рефрижераторные перевозки</a><ul class="nav-child unstyled small"><li class="item-518"><a href="../spetsificheskie-perevozki/377-refrizheratory-20-tonn" >Рефрижератом 20 тонн</a></li></ul></li><li class="item-131 deeper parent"><a href="../napravleniya.1" >Направления</a><ul class="nav-child unstyled small"><li class="item-511"><a href="../avtoperevozki" >Россия</a></li><li class="item-512"><a href="../sng/84-gruzoperevozki-v-abkhaziyu" >Абхазия</a></li><li class="item-513"><a href="../sng/226-gruzoperevozki-v-armeniyu" >Армения</a></li><li class="item-514"><a href="../sng/88-gruzoperevozki-v-gruziyu" >Грузия</a></li><li class="item-515"><a href="../sng/83-gruzoperevozki-v-kazakhstan" >Казахстан</a></li><li class="item-516"><a href="../sng/85-gruzoperevozki-v-belorussiyu" >Белоруссия</a></li></ul></li></ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+                <div class="module plat" id="mod_146">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                                                
+
+<div class="custom"  >
+	<p><strong>Мы принимаем</strong></p>
+<p>
+	<a href="../tseny-online/oplatit-perevozku-onlajn"> <img src="../images/plat.png" alt="plat" /></a>
+</p>
+<p><a href="../tseny-online/oplatit-perevozku-onlajn" class="btn">Оплатить онлайн</a></p></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+	</section>
+
+
+	<footer>
+		<div class="container">
+			<div class="row">
+				            <div class="module col-md-5 col-xs-12 col-sm-4" id="mod_98">
+            <div>
+                                
+
+<div class="custom"  >
+	<p><a href="../index.html"><img src="../images/construct/logo2.png" alt="logo2" style="vertical-align: top;" /></a> <a href="../sitemap">Sitemap</a></p></div>
+            </div>
+        </div>
+                <div class="module col-md-4 mail col-xs-12  col-sm-4" id="mod_100">
+            <div>
+                                
+
+<div class="custom"  >
+	<p><a href="mailto:info@akkolada.com" id="footer_mail">info@akkolada.com</a></p>
+<p class="we">Мы в соцсетях:</p>
+<ul id="soc">
+<li id="soc1"><a href="http://vk.com/vygodnye.gruzoperevozki" target="_blank" rel="nofollow"></a></li>
+<li id="soc2"><a href="https://www.facebook.com/vygodnye.gruzoperevozki" target="_blank" rel="nofollow"></a></li>
+<li id="soc3"><a href="https://twitter.com/Akkolada_com" target="_blank" rel="nofollow"></a></li>
+<li id="soc4"><a href="https://plus.google.com/112522442764041465257/" target="_blank" rel="nofollow"></a></li>
+<li id="soc5"><a href="https://www.youtube.com/channel/UCWsCSQlNoZ5ue4wVimro8pA" target="_blank" rel="nofollow"></a></li>
+</ul></div>
+            </div>
+        </div>
+                <div class="module col-md-3 phone col-xs-12  col-sm-4" id="mod_99">
+            <div>
+                                
+
+<div class="custom"  >
+	<p><strong class="comagic_phone1"><a href="tel:+74952480066">+7 (495) 248-00-66</a></strong></p>
+<p><a href="457-avtoperevozki-gruzov-po-rossii#call_back_form" class="btn call_back_form_msg" data-lity>Закажите звонок</a></p></div>
+            </div>
+        </div>
+    
+			</div>
+		</div>
+		<div class="copyright">
+			<a href="../politika-konfeditsialnosti?tmpl=form&amp;ml=1&amp;iframe=1" rel="nofollow" type="text/html" class="mod modal_link" data-modal-iframe="true" data-modal-width="700" data-modal-height="550" data-modal-iframe="true" data-modal-width="95%" data-modal-height="95%" data-modal-class-name="no_title">Политика
+				конфиденциальности</a>
+		</div>
+	</footer>
+
+<div id="feed_back_form" class="lity-hide">
+	<div class="rsform">
+	<form method="post"  class="obrsvyaz" action="457-avtoperevozki-gruzov-po-rossii"><div class="obratnaya-svyaz">
+<h6 class="obrsvyaz">Обратная связь</h6>
+<div id="rsform_error_14" style="display: none;"></div>
+<div class="form2LinesLayout">
+	<div class="formField rsform-block rsform-block-name">
+		 Имя*<br/>
+		<input type="text" value="" size="20" name="form[name]" id="name" class="rsform-input-box" /><br/>
+		<span id="component80" class="formNoError"></span>
+		
+	</div>
+	<div class="formField rsform-block rsform-block-phone">
+		Телефон*<br/>
+		<input type="text" value="" size="20" name="form[phone]" id="phone" class="rsform-input-box" /><br/>
+		<span id="component81" class="formNoError"></span>
+		
+	</div>
+	<div class="formField rsform-block rsform-block-text">
+		Комментарий<br/>
+		<textarea cols="50" rows="5" name="form[text]" id="text" class="rsform-text-box"></textarea><br/>
+		<span id="component82" class="formNoError"></span>
+		
+	</div>
+	<div class="formField rsform-block rsform-block-send">
+		<br/>
+		<input type="submit" name="form[send]" id="send" class="btn rsform-submit-button" value="Отправить" /><br/>
+		
+		
+	</div>
+</div>
+</div><input type="hidden" name="form[formId]" value="14"/></form><script type="text/javascript">RSFormPro.Ajax.URL = "\/component\/rsform\/?task=ajaxValidate";</script><script type="text/javascript">rsfp_addEvent(window, 'load', function(){var form = rsfp_getForm(14); 
+			var submitElement = RSFormPro.getElementByType(14, 'submit');
+			for (i = 0; i < submitElement.length; i++) {
+				if (RSFormProUtils.hasClass(submitElement[i],'rsform-submit-button')) {
+					RSFormProUtils.addEvent(submitElement[i],'click', (function(event) {
+							event.preventDefault();
+							RSClickedSubmitElement = this;
+							for (j = 0; j < submitElement.length; j++) {
+								submitElement[j].setAttribute('data-disableonsubmit','1');
+							}
+							ajaxValidation(form, undefined);
+					}));
+				}
+			}
+			});
+			</script>
+<script type="text/javascript">
+ajaxExtraValidationScript[14] = function(task, formId, data){ 
+var formComponents = {};
+formComponents[80]='name';formComponents[81]='phone';formComponents[82]='text';
+ajaxDisplayValidationErrors(formComponents, task, formId, data);
+};
+</script></div>
+</div>
+
+<div id="call_back_form" class="lity-hide">
+	<div class="rsform">
+	<form method="post"  id="userForm" class="zakaz-obrat-zvon" action="457-avtoperevozki-gruzov-po-rossii"> 
+<div class="componentheading"><h6 class="zak-obr-zvonok">Заказать обратный звонок</h6></div>
+<div id="rsform_error_10" style="display: none;"></div>
+<div class="form2LinesLayout">
+	<div class="formField rsform-block rsform-block-name">
+		 Имя*<br/>
+		<input type="text" value="" size="20" name="form[name]" id="name" class="rsform-input-box" /><br/>
+		<span id="component58" class="formNoError"></span>
+		
+	</div>
+	<div class="formField rsform-block rsform-block-phone">
+		 Телефон*<br/>
+		<input type="text" value="" size="20" name="form[phone]" id="phone" class="rsform-input-box" /><br/>
+		<span id="component59" class="formNoError"></span>
+		
+	</div>
+	<div class="formField rsform-block rsform-block-text">
+		 Комментарий<br/>
+		<textarea cols="30" rows="5" name="form[text]" id="text" class="rsform-text-box"></textarea><br/>
+		<span id="component60" class="formNoError"></span>
+		
+	</div>
+	<div class="formField rsform-block rsform-block-send">
+		<br/>
+		<input type="submit" name="form[send]" id="send" class="cme_btn rsform-submit-button" style="opacity: 1;" value="ПЕРЕЗВОНИТЕ МНЕ" /><br/>
+		
+		
+	</div>
+</div><input type="hidden" name="form[formId]" value="10"/></form><script type="text/javascript">RSFormPro.Ajax.URL = "\/component\/rsform\/?task=ajaxValidate";</script><script type="text/javascript">rsfp_addEvent(window, 'load', function(){var form = rsfp_getForm(10); 
+			var submitElement = RSFormPro.getElementByType(10, 'submit');
+			for (i = 0; i < submitElement.length; i++) {
+				if (RSFormProUtils.hasClass(submitElement[i],'rsform-submit-button')) {
+					RSFormProUtils.addEvent(submitElement[i],'click', (function(event) {
+							event.preventDefault();
+							RSClickedSubmitElement = this;
+							for (j = 0; j < submitElement.length; j++) {
+								submitElement[j].setAttribute('data-disableonsubmit','1');
+							}
+							ajaxValidation(form, undefined);
+					}));
+				}
+			}
+			});
+			</script>
+<script type="text/javascript">
+ajaxExtraValidationScript[10] = function(task, formId, data){ 
+var formComponents = {};
+formComponents[58]='name';formComponents[59]='phone';formComponents[60]='text';
+ajaxDisplayValidationErrors(formComponents, task, formId, data);
+};
+</script></div>
+</div>
+<a href="457-avtoperevozki-gruzov-po-rossii#call_back_form_msg" class="call_back_form_msg_btn" data-lity></a>
+<div id="call_back_form_msg" class="lity-hide">
+	<p>Спасибо, что обратились в нашу компанию!</p>
+	<p>Наш менеджер свяжется с Вами в ближайшее время.</p>
+</div>
+
+<a href="457-avtoperevozki-gruzov-po-rossii#avto_order_form_msg" class="avto_order_form_msg_btn" data-lity></a>
+<div id="avto_order_form_msg" class="lity-hide">
+	<p>Спасибо за ваш заказ!</p>
+	<p>Наш менеджер свяжется с Вами в ближайшее время.</p>
+</div>
+
+<a href="457-avtoperevozki-gruzov-po-rossii#avto_order_modal" class="avto_order_modal_click" data-lity></a>
+<div id="avto_order_modal" class="lity-hide">
+	<div class="modal-order-form">
+		<h2 id="avto_header_form">Газель борт</h2>
+		<div class="avto_order_form">
+			<div class="rsform">
+	<form method="post"  id="userForm" class="zakaz-avto formResponsive" action="457-avtoperevozki-gruzov-po-rossii"><h2>Закажите перевозку</h2>
+<div id="rsform_error_13" style="display: none;"><p class="formRed">Please complete all required fields!</p></div>
+<!-- Do not remove this ID, it is used to identify the page so that the pagination script can work correctly -->
+
+<fieldset class="formHorizontal formContainer" id="rsform_13_page_0">
+	<div class="rsform-block rsform-block-h2">
+			<div class="formBody">Закажите перевозку</div>
+	</div>
+	<div class="rsform-block rsform-block-text">
+			<div class="formBody">Мы Вам перезвоним в<br/>течение 5 минут</div>
+	</div>
+	<div class="rsform-block rsform-block-user-name">
+	<div class="formControlLabel"><strong class="formRequired"></strong></div>
+		<div class="formControls">
+			<div class="formBody"><input type="text" value="" size="20" name="form[user_name]" id="user_name" placeholder="Ваше имя" required class="rsform-input-box" /><span class="formValidation"><span id="component74" class="formNoError">Неверный ввод</span></span></div>
+			<p class="formDescription"></p>
+		</div>
+	</div>
+	<div class="rsform-block rsform-block-user-phone">
+	<div class="formControlLabel"><strong class="formRequired"></strong></div>
+		<div class="formControls">
+			<div class="formBody"><input type="text" value="" size="20" name="form[user_phone]" id="user_phone" placeholder="Ваш телефон" required class="rsform-input-box" /><span class="formValidation"><span id="component75" class="formNoError">Неверный ввод</span></span></div>
+			<p class="formDescription"></p>
+		</div>
+	</div>
+<div class="ord_sumbit">Заказать</div>
+	<div class="rsform-block rsform-block-submit">
+	<div class="formControlLabel"></div>
+		<div class="formControls">
+			<div class="formBody"><input type="submit" name="form[submit]" id="submit" class="btn rsform-submit-button" value="Заказать" /><span class="formValidation"></span></div>
+			<p class="formDescription"></p>
+		</div>
+	</div>
+	<input type="hidden" name="form[data_form]" id="data_form" value="" />
+</fieldset><input type="hidden" name="form[formId]" value="13"/></form><script type="text/javascript">RSFormPro.Ajax.URL = "\/component\/rsform\/?task=ajaxValidate";</script><script type="text/javascript">rsfp_addEvent(window, 'load', function(){var form = rsfp_getForm(13); 
+			var submitElement = RSFormPro.getElementByType(13, 'submit');
+			for (i = 0; i < submitElement.length; i++) {
+				if (RSFormProUtils.hasClass(submitElement[i],'rsform-submit-button')) {
+					RSFormProUtils.addEvent(submitElement[i],'click', (function(event) {
+							event.preventDefault();
+							RSClickedSubmitElement = this;
+							for (j = 0; j < submitElement.length; j++) {
+								submitElement[j].setAttribute('data-disableonsubmit','1');
+							}
+							ajaxValidation(form, undefined);
+					}));
+				}
+			}
+			});
+			</script>
+<script type="text/javascript">
+ajaxExtraValidationScript[13] = function(task, formId, data){ 
+var formComponents = {};
+formComponents[74]='user_name';formComponents[75]='user_phone';
+ajaxDisplayValidationErrors(formComponents, task, formId, data);
+};
+</script></div>
+		</div>
+		<div id="avto_form_data">
+			<table>
+				<tbody>
+					<tr>
+						<td class="td_past_img">
+							<img src="../images/cars/gazel_bort.png" alt="gazel bort">
+						</td>
+					</tr>
+					<tr>
+						<td class="td_past_quant">
+							<p>Количество паллетов: 6</p>
+							<p>Грузоподъемность, тонн: 1.5</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<table>
+								<tbody>
+									<tr>
+										<td rowspan="2" class="td_height">1,7 м</td>
+										<td class="td_width">1,8 м</td>
+										<td class="td_vol">9 м<sup>3&nbsp;</sup>(объем)</td>
+									</tr>
+									<tr>
+										<td colspan="2" class="td_length">3 м</td>
+									</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+</div>
+
+
+<div class="absolute">
+	            <div class="module" id="mod_119">
+            <div>
+                                <div class="youreg">
+    <span class="label">Ваш регион:</span>
+    <a href="457-avtoperevozki-gruzov-po-rossii#" id="region">Определяем...</a>
+        <div id="allregions">
+        <ul>
+                            <ul class="col_2">                <li><a href="457-avtoperevozki-gruzov-po-rossii#">Москва и Московская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Санкт-Петербург и Ленинградская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Алтайский край</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Амурская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Архангельская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Астраханская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Белгородская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Брянская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Владимирская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Волгоградская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Вологодская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Воронежская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Еврейская автономная область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Забайкальский край</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Ивановская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Иркутская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Калининградская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Камчатский край</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Краснодарский край</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Красноярский край</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Калужская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Кемеровская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Кировская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Костромская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Курганская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Курская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Липецкая область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Магаданская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Мурманская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Нижегородская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Новгородская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Новосибирская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Ненецкий автономный округ</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Омская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Оренбургская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Орловская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Пермский край</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Приморский край</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Пензенская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Псковская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Республика Адыгея</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Республика Алтай</a></li>
+                </ul><ul class="col_2">                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Республика Башкортостан</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Республика Бурятия</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Республика Дагестан</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Республика Ингушетия</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Республика Кабардино-Балкария</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Республика Калмыкия</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Республика Карачаево-Черкесия</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Республика Карелия</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Республика Коми</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Республика Крым</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Республика Марий Эл</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Республика Мордовия</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Республика Саха (Якутия)</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Республика Северная Осетия — Алания</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Республика Татарстан</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Республика Тыва</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Республика Удмуртия</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Республика Хакасия</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Республика Чечня</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Республика Чувашия</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Ростовская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Рязанская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Севастополь</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Ставропольский край</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Самарская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Саратовская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Сахалинская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Свердловская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Смоленская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Тамбовская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Тверская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Томская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Тульская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Тюменская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Ульяновская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Хабаровский край</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Ханты-Мансийский автономный округ — Югра</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Челябинская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Чукотский автономный округ</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Ярославская область</a></li>
+                                                            <li><a href="457-avtoperevozki-gruzov-po-rossii#">Ямало-Ненецкий автономный округ</a></li>
+                </ul>                    </ul>
+        <div class="clear"></div>
+    </div>
+</div>
+            </div>
+        </div>
+    
+</div>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-55734859-16"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-55734859-16');
+</script>
+
+<!-- Yandex.Metrika counter --> <script type="text/javascript" > (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter50359093 = new Ya.Metrika2({ id:50359093, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/tag.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks2"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/50359093" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+</body>
+</html>

@@ -1,0 +1,60 @@
+#region {
+    color: #ff3333;
+    font-size: 14px;
+    font-weight: 300;
+    border-bottom: 1px dotted #ff3333;
+}
+#allregions {
+    background: #FFF;
+    padding: 20px;
+    width: 400px;
+    height: auto;
+    border: 1px solid #000;
+    display: none;
+    position: relative;
+    z-index: 999;
+}
+#allregions ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+#allregions ul.col_2 {
+    width: 49%;
+    margin-right: 1%;
+    float: left;
+}
+#allregions ul.col_3 {
+    width: 32%;
+    margin-right: 1%;
+    float: left;
+}
+#allregions ul.col_4 {
+    width: 24%;
+    margin-right: 1%;
+    float: left;
+}
+#allregions ul.col_5 {
+    width: 19%;
+    margin-right: 1%;
+    float: left;
+}
+#allregions ul li{
+    font-size: 12px;
+    line-height: 130%;
+}
+#allregions ul li a{
+    color: #000;
+    text-decoration: none;
+}
+#allregions ul li a:hover{
+    text-decoration: underline;
+}
+span.label {
+    font-weight: 400;
+    font-size: 15px;
+    color: #333;
+    display: block;
+    text-align: left;
+    padding: 0;
+}

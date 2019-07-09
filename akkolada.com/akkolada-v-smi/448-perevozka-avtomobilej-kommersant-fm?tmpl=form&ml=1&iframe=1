@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru-ru" lang="ru-ru" dir="ltr">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<base href="" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="CRM" />
+	<meta name="description" content="Специалист компании &quot;Акколада&quot; Артем Костюковский, дал комментарий радиостанции Коммерсант FM.
+
+Тема эфира: Перевозка автомобилей" />
+	<title>Перевозка автомобилей / Коммерсант FM</title>
+	<link href="https://akkolada.com/templates/main/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="../plugins/system/jcemediabox/css/jcemediabox.css?8cfa64e271ad662672a2c7924b73bad3" rel="stylesheet" type="text/css" />
+	<link href="../plugins/system/jcemediabox/themes/squeeze/css/style.css?758494fb0fa014b378b6a6b12995edde" rel="stylesheet" type="text/css" />
+	<link href="../media/plg_jchoptimize/css/pro-jquery.lazyloadxt.fadein.css" rel="stylesheet" type="text/css" />
+	<script type="application/json" class="joomla-script-options new">{
+    "system.paths": {
+        "root": "",
+        "base": ""
+    }
+}</script>
+	<script src="../media/jui/js/jquery.js?a0e545623147d7789f6726744bc2f73a" type="text/javascript"></script>
+	<script src="../media/jui/js/jquery-noconflict.js?a0e545623147d7789f6726744bc2f73a" type="text/javascript"></script>
+	<script src="../media/jui/js/jquery-migrate.js?a0e545623147d7789f6726744bc2f73a" type="text/javascript"></script>
+	<script src="../media/system/js/caption-uncompressed.js?a0e545623147d7789f6726744bc2f73a" type="text/javascript"></script>
+	<script src="../media/jui/js/bootstrap.js?a0e545623147d7789f6726744bc2f73a" type="text/javascript"></script>
+	<script src="../plugins/system/jcemediabox/js/jcemediabox.js?528821fdbeff175de3123ff67bae847a" type="text/javascript"></script>
+	<script src="../media/plg_jchoptimize/js/pro-jquery.lazyloadxt.js" type="text/javascript"></script>
+	<script src="../media/system/js/mootools-core-uncompressed.js?a0e545623147d7789f6726744bc2f73a" type="text/javascript"></script>
+	<script src="../media/system/js/core-uncompressed.js?a0e545623147d7789f6726744bc2f73a" type="text/javascript"></script>
+	<script src="../media/system/js/mootools-more-uncompressed.js?a0e545623147d7789f6726744bc2f73a" type="text/javascript"></script>
+	<script type="text/javascript">
+
+                function getCookie(name) {
+                    var matches = document.cookie.match(new RegExp(
+                        "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\/\+^])/g, "\$1") + "=([^;]*)"
+                        ));
+                    return matches ? decodeURIComponent(matches[1]) : undefined;
+                }
+
+                function setCookie(name, value, path) {
+                    value = encodeURIComponent(value);
+                    var updatedCookie = name + "=" + value,
+                        pth           = "path=" + path,
+                        update        = updatedCookie + ";" + pth;
+                    document.cookie = update;
+                }
+
+                function deleteCookie(name) {
+	                setCookie(name, null, 0, 0);
+                }
+            
+                            isAltOn = function(){
+                                setCookie("is_alt", "yes", "/");
+                                location.href = window.location.href;
+                            }
+                            jQuery(document).ready(function($){
+                                $("body").append("<a class=\"version getalt\" style=\"position: relative;z-index: 10;display:none;\" href="https://akkolada.com/akkolada-v-smi/\&quot;#\"" onclick=\"isAltOn();return false;\">Альтернативный шаблон</a>");
+                            });
+                        
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+;if( parent.location.href === window.location.href ) {
+				loc = window.location.href.replace( /(\?|&)ml=1(&|$)/, '$1' );
+				if(parent.location.href !== loc) {
+					parent.location.href = loc;
+				}
+			}
+JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:0,overlay:1,overlayopacity:0.5,overlaycolor:"#333333",fadespeed:700,scalespeed:700,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Закрыть','next':'Далее','previous':'Назад','cancel':'Отмена','numbers':'{$current} из {$total}'},cookie_expiry:"",google_viewer:0,pdfjs:0},tooltip:{className:"tooltip",opacity:0,speed:150,position:"tl",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"squeeze",themecustom:"",themepath:"plugins/system/jcemediabox/themes"});
+
+                                jQuery.extend(jQuery.lazyLoadXT, {
+  selector: 'img[data-jchll=true]',
+   
+});
+
+jQuery(window).on('ajaxComplete', function() {
+  setTimeout(function() {
+    jQuery(window).lazyLoadXT();
+  }, 50);
+});
+
+	</script>
+
+	<link rel="stylesheet" href="../templates/system/css/system.css" type="text/css" />
+    <link href="../templates/main/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../templates/main/css/all.css" rel="stylesheet">
+<noindex><div align="center"><img src="http://bob-dylan.ru/image/domen.png"> </div><br><br></noindex>
+<head>
+<body class="for_video">
+<div id="system-message-container">
+	</div>
+
+<div class="item-page rybriki" itemscope itemtype="http://schema.org/Article">
+	<meta itemprop="inLanguage" content="ru-RU" />
+	
+		
+			<div class="page-header">
+		<h1 itemprop="name">
+							Перевозка автомобилей / Коммерсант FM					</h1>
+							</div>
+					
+	
+	
+		
+								<div itemprop="articleBody">
+		<p>Специалист компании "Акколада" Артем Костюковский, дал комментарий радиостанции Коммерсант FM.</p>
+<p>Тема эфира: Перевозка автомобилей</p>
+ 
+ 
+<div class="myvideo"> 
+<iframe width="853" height="480" src="https://www.youtube.com/embed/XNId2O6VIbo" frameborder="0" allowfullscreen></iframe> 
+    </div> 
+
+<h2>Диван, чемодан и автомобиль</h2>
+<p><em>Как взять свою машину в отпуск</em></p>
+<p><strong>Российские предприниматели возвращаются домой из отпуска. Судя по фотографиям из социальных сетей, в новогодние праздники бизнесмены отдыхали на Мальдивах, в Дубае и Таиланде. Некоторые из них не смогли отказаться от привычных вещей &mdash; например, взяли с собой за границу собственные автомобили. Сколько стоит такая услуга? Разбирался Никита Павлюк-Павлюченко.</strong></p>
+<p>На отдых на Лазурный берег и в деловую поездку в Лондон можно отправиться со своим багажом и машиной. Логистические агентства готовы доставить дорогостоящее авто из России в любую страну. Эта услуга сегодня пользуется спросом, отмечают эксперты. Средняя стоимость доставки на самолете &mdash; от &euro;10 тыс. до &euro;15 тыс. в один конец.</p>
+<p>Заказывают услугу, в первую очередь, владельцы или руководители крупного бизнеса, отметил ведущий менеджер по международным перевозкам компании "Акколада" Артем Костюковский. "Наибольшим спросом пользуется доставка в Европу, Арабские Эмираты. Людям важен срок доставки &mdash; они не готовы ждать автомобиль неделю-полторы. Человек садится в самолет, и ему важно, чтобы его машину предоставили часа через два-три после приземления. Чтобы не повредить кузов автомобиля, его, конечно, помещают в специализированный ящик", &mdash; рассказал он.</p>
+<p>Существуют разные варианты доставки: клиент может самостоятельно доехать до аэропорта и передать авто специалистам или встретить сотрудника компании у двери дома и отдать ему ключи. На борт самолета грузят не только дорогостоящие современные машины, но и раритетные, и даже спортивные гоночные болиды. Ответственность за сохранность несет компания-перевозчик. В случае любого повреждения, например, царапины, владелец получит компенсацию. Оформление всех документов фирма-доставщик также берет на себя.</p>
+<p>В особых случаях авто действительно можно перевезти до точки назначения самолетом, однако это очень дорого, считает автоэксперт, бизнесмен Никита Небылицкий. "У меня была Ferrari, подготовленная для кольцевых гонок, для развлечения. Мы решили поехать в другую страну. У одного из людей из нашей компании был автомобиль Pagani Zonda, который он хотел перевезти на самолете, &mdash; рассказал он. &mdash; Есть такая "фишка": люди приезжают в Сидней, чтобы проехать на автомобиле через всю Австралию. Многие едут на собственных машинах. Это такая история из разряда выпендриться перед всеми", &mdash; рассказал он.</p>
+<p>В качестве наглядного примера можно взять Ferrari 488 GTB. Машина стоит 22 млн руб, или почти &euro;350 тыс. Тому, кто захочет взять ее с собой в Европу, придется заплатить десятую часть стоимости автомобиля.</p>
+<p><em>Логистические компании могут доставить машину в другую страну и более дешевым способом. Так, перевозка автомобиля в США по воде обойдется в $3 тыс. долларов. Примерно столько же, но уже в евро, стоит доставка на грузовике в Европу.</em></p>
+<p><img src="../images/BLOG/kommersant-akkolada.jpg" alt="" /><span style="font-size: 14pt;">&nbsp;<em><strong>оригинал статьи</strong></em></span></p>	</div>
+
+	
+						</div>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-55734859-16"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-55734859-16');
+</script>
+
+<!-- Yandex.Metrika counter --> <script type="text/javascript" > (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter50359093 = new Ya.Metrika2({ id:50359093, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/tag.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks2"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/50359093" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+</body>
+</html>
