@@ -1,0 +1,16 @@
+/*
+	 Пример CSS-Tricks
+	 Автор: Chris Coyier
+	 http://css-tricks.com
+	 Перевод: команда проекта RUSELLER
+*/
+
+* { margin: 0; padding: 0; }
+body { font: 12px Georgia, serif; }
+
+article, aside, figure, footer, header, hgroup,
+menu, nav, section { display: block; }
+
+#page-wrap { width: 70%; margin: 20px auto; }
+
+h1, h2, p { margin: 15px 0; }

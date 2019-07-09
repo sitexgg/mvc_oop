@@ -1,0 +1,167 @@
+@font-face {
+  font-family: 'cleaning';
+  src:  url('http://transport-novosibirsk.ru/clining/fonts/iconmoon/fonts/cleaning.eot?nib9lz');
+  src:  url('http://transport-novosibirsk.ru/clining/fonts/iconmoon/fonts/cleaning.eot?nib9lz#iefix') format('embedded-opentype'),
+    url('http://transport-novosibirsk.ru/clining/fonts/iconmoon/fonts/cleaning.ttf?nib9lz') format('truetype'),
+    url('http://transport-novosibirsk.ru/clining/fonts/iconmoon/fonts/cleaning.woff?nib9lz') format('woff'),
+    url('http://transport-novosibirsk.ru/clining/fonts/iconmoon/fonts/cleaning.svg?nib9lz#cleaning') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'cleaning' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-printer:before {
+  content: "\e92e";
+}
+.icon-cancel:before {
+  content: "\e92c";
+}
+.icon-line-menu:before {
+  content: "\e92d";
+}
+.icon-speech-bubble:before {
+  content: "\e900";
+}
+.icon-linkedin-logo:before {
+  content: "\e901";
+}
+.icon-google-plus-logo:before {
+  content: "\e902";
+}
+.icon-twitter-logo:before {
+  content: "\e903";
+}
+.icon-instagram-logo:before {
+  content: "\e904";
+}
+.icon-facebook-logo:before {
+  content: "\e905";
+}
+.icon-mouse:before {
+  content: "\e906";
+}
+.icon-checked:before {
+  content: "\e907";
+}
+.icon-bubble:before {
+  content: "\e908";
+}
+.icon-next:before {
+  content: "\e909";
+}
+.icon-right-arrow:before {
+  content: "\e90a";
+}
+.icon-back:before {
+  content: "\e90b";
+}
+.icon-star-black:before {
+  content: "\e90c";
+}
+.icon-time:before {
+  content: "\e90d";
+}
+.icon-technology:before {
+  content: "\e90e";
+}
+.icon-bell:before {
+  content: "\e90f";
+}
+.icon-market:before {
+  content: "\e910";
+}
+.icon-cancel2:before {
+  content: "\e911";
+}
+.icon-user:before {
+  content: "\e912";
+}
+.icon-clock:before {
+  content: "\e913";
+}
+.icon-cleaning-spray:before {
+  content: "\e914";
+}
+.icon-cleaning-lady:before {
+  content: "\e915";
+}
+.icon-map-marker:before {
+  content: "\e916";
+}
+.icon-vacuum:before {
+  content: "\e917";
+}
+.icon-conversation:before {
+  content: "\e918";
+}
+.icon-broom:before {
+  content: "\e919";
+}
+.icon-night:before {
+  content: "\e91a";
+}
+.icon-target:before {
+  content: "\e91b";
+}
+.icon-bucket:before {
+  content: "\e91c";
+}
+.icon-map-with-marker:before {
+  content: "\e91d";
+}
+.icon-boss:before {
+  content: "\e91e";
+}
+.icon-umbrella:before {
+  content: "\e91f";
+}
+.icon-smiling-face:before {
+  content: "\e920";
+}
+.icon-icon-check:before {
+  content: "\e921";
+}
+.icon-phone-call:before {
+  content: "\e922";
+}
+.icon-phone-lined:before {
+  content: "\e923";
+}
+.icon-map-lined:before {
+  content: "\e924";
+}
+.icon-umbrella-lined:before {
+  content: "\e925";
+}
+.icon-user-lined:before {
+  content: "\e926";
+}
+.icon-like-lined:before {
+  content: "\e927";
+}
+.icon-users-lined:before {
+  content: "\e928";
+}
+.icon-reward-lined:before {
+  content: "\e929";
+}
+.icon-target-lined:before {
+  content: "\e92a";
+}
+.icon-brush-lined:before {
+  content: "\e92b";
+}

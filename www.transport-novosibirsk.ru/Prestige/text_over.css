@@ -1,0 +1,123 @@
+﻿ font-family: 'Roboto', sans-serif;
+ 
+}
+*, *:after, *:before {
+ box-sizing: border-box;
+ box-sizing: border-box;
+}
+@media (min-width: 1200px) {
+ .wrapper {
+ width: 1170px;
+ }
+}
+@media (min-width: 992px) {
+ .wrapper {
+ width: 970px;
+ }
+}
+@media (min-width: 768px) { 
+ .wrapper {
+ width: 750px;
+ }
+}
+.wrapper {
+ margin: 2em auto;
+}
+.demo-content {
+ text-align: center;
+}
+.img-box {
+ text-align: center;
+ position: relative;
+ display: inline-block;
+ overflow: hidden;
+ margin: 0 auto;
+ min-width: 230px;
+ max-width: 850px;
+ width: 100%;
+ -webkit-box-shadow: 0 8px 17px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .19);
+ box-shadow: 0 8px 17px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .19);
+}
+.img-box:before {
+ content: "";
+ width: 100%;
+ height: 100%;
+ position: absolute;
+ top: 0;
+ left: 0;
+ background: rgba(0, 0, 0, 0.5);
+ opacity: 0;
+ -webkit-transition: all 0.5s ease 0s;
+ transition: all 0.5s ease 0s;
+}
+.img-box:hover:before {
+ opacity: 1;
+}
+.img-box:after {
+ content: "";
+ position: absolute;
+ top: 2px;
+ left: 2px;
+ bottom: 2px;
+ right: 2px;
+ border: 2px solid #ccc;
+ transform: scale(0);
+ opacity: 0;
+ -webkit-transition: all 0.8s ease 0s;
+ transition: all 0.8s ease 0s;
+}
+.img-box:hover:after {
+ opacity: 1;
+ transform: scale(1);
+}
+.img-box a {
+ left: 0;
+ right: 0;
+ top: 0;
+ bottom: 0;
+ position: absolute;
+ z-index: 3;
+}
+.img-box img {
+ max-width: 100%;
+ vertical-align: top;
+}
+.img-box figcaption {
+ position: absolute;
+ top: 0;
+ bottom: 0;
+ left: 0;
+ right: 0;
+ align-items: center;
+ z-index: 1;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ line-height: 1.1em;
+ opacity: 0;
+}
+.img-box h3 {
+ font-size: 1.2em;
+ font-weight: 400;
+ letter-spacing: 1px;
+ margin: 0;
+ text-transform: uppercase;
+ transform: scale(0);
+ -webkit-transition: all 1s ease 0s;
+ transition: all 1s ease 0s;
+}
+.img-box h3 span {
+ display: block;
+ font-size: 0.7em;
+ font-weight: 400;
+ margin-top: 6px;
+}
+.img-box:hover figcaption, .img-box:hover h3 {
+ transform: scale(1);
+ opacity: 1;
+}
+@media only screen and (max-width:990px) {
+ .img-box {
+ margin-bottom: 20px;
+ }
+}

@@ -1,0 +1,81 @@
+.lightbox-image{
+    cursor:pointer;
+}
+
+.lightbox{
+    background:red;
+    bottom:0;
+    height:100%;
+    left:0;
+    margin:0;
+    position:fixed;
+    right:0;
+    top:0;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    width:100%;
+    z-index:2500;
+}
+
+.lightbox .content{
+    display: table;
+    height:100%;
+    margin:auto;
+    width:100%;
+}
+
+.lightbox .content .inner {
+    display:table-cell;
+    vertical-align: middle;
+}
+
+.lightbox .content .inner .image,
+.lightbox .content .inner .title{
+    color:#fff;
+    margin:auto;
+    padding-bottom: 20px;
+    text-align: center;
+    width:50%;
+}
+
+.lightbox .content .inner .image img{
+    max-width:100%;
+}
+
+.lightbox .left,
+.lightbox .right,
+.lightbox .close{
+    color:#666;
+    font-size:30px;
+    opacity:1;
+    position: absolute;
+    text-shadow: none;
+    z-index:2501;
+}
+
+.lightbox .close{
+    right:20px;
+    top:20px;
+}
+
+.lightbox .left{
+    left:20px;
+    top:50%;
+}
+
+.lightbox .right{
+    right:20px;
+    top:50%;
+}
+
+.lightbox .left:hover,
+.lightbox .right:hover,
+.lightbox .close:hover{
+    color:#fff;
+    cursor: pointer;
+    transition:color 0.2s ease;
+}

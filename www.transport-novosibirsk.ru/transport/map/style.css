@@ -1,0 +1,116 @@
+/***************************
+  Author: Yury Nemets
+  URL: http://www.sitehere.ru
+****************************/
+
+.ymap-container {
+  position: relative;
+
+  margin: 3em 0 2em 0;
+
+  overflow: hidden;
+
+  cursor: pointer;
+
+  background: url('http://transport-novosibirsk.ru/transport/map/yandex-before-load.png') #ffffff no-repeat;
+  background-position: center center;
+  background-size: cover;
+  box-shadow: 0 0 2em  0 rgba(0,0,0,.2);
+}
+
+#map-yandex {
+  position: relative;
+  z-index: 7;
+
+  width: 100%;
+  height: 20em;
+
+  cursor: pointer;
+
+  background-color: transparent;
+}
+
+/*Индикатор загрузки, который показывается до загрузки карты*/
+.loader {
+  position: absolute;
+  z-index: 15;
+  top: -100%;
+  left: 0;
+
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+
+  overflow: hidden;
+
+  color: #000000;
+
+  transition: opacity .7s ease;
+
+  opacity: 0;
+  background-color: rgba(0,0,0,.55);
+}
+.loader:after,
+.loader:before {
+  box-sizing: border-box;
+}
+.loader.is-active {
+  top: 0;
+
+  opacity: 1;
+}
+
+.loader-default:after {
+  position: absolute;
+  top: calc(50% - 24px);
+  left: calc(50% - 24px);
+
+  width: 48px;
+  height: 48px;
+
+  content: '';
+  -webkit-animation: rotation 1s linear infinite;
+          animation: rotation 1s linear infinite;
+
+  border: solid 8px #ffffff;
+  border-left-color: transparent;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes rotation {
+  from {
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+  }
+  to {
+    -webkit-transform: rotate(359deg);
+            transform: rotate(359deg);
+  }
+}
+
+@keyframes rotation {
+  from {
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+  }
+  to {
+    -webkit-transform: rotate(359deg);
+            transform: rotate(359deg);
+  }
+}
+@-webkit-keyframes blink {
+  from {
+    opacity: .5;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes blink {
+  from {
+    opacity: .5;
+  }
+  to {
+    opacity: 1;
+  }
+}

@@ -1,0 +1,48 @@
+﻿.animate3{
+ position: relative;
+ margin:0 auto;
+ max-width: 621px; 
+ height: auto; 
+}
+.animate3 img {
+ position:absolute; 
+ left: 0; 
+ top: 0; 
+}
+.animate3 img.first { 
+ opacity:0;
+ filter:alpha (opacity=0);
+}
+.animate3:hover img.first { 
+ opacity:1;
+ filter:alpha (opacity=100);
+}
+.animate3:hover img.second, .animate2 img.second:hover { 
+ opacity:0;
+ filter:alpha (opacity=0);
+ -moz-transition: all 1s ease-in-out; 
+ -webkit-transition: all 1s ease-in-out; 
+ -o-transition: all 1s ease-in-out; 
+ transition: all 1s ease-in-out; }
+.animate:not(:hover) img.second, .animate img.second:not(:hover) {  
+ -moz-transition: all 1s ease;
+ -wedkit-transition: all 1s ease;
+ -o-transition: all 1s ease;
+ transition: all 1s ease;
+}
+.animate3:not(:hover) img.first:not(:hover){
+ opacity:0;
+ filter: alpha (opacity=100);
+ filter: alpha (opacity=0);
+ -moz-transition: all 1s ease;
+ -webkit-transition: all 1s ease;
+ -o-transition: all 1s ease;
+ transition: all 1s ease;
+}
+.animate3:not(:hover) img.second, .animate2 img.second:not(:hover) {
+ opacity:1;
+ filter: alpha (opacity=0);
+ -moz-transition: all 1s ease;
+ -webkit-transition: all 1s ease;
+ -o-transition: all 1s ease;
+ transition: all 1s ease;

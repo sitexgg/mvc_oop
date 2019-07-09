@@ -1,0 +1,108 @@
+﻿
+ .test1 {
+ color: #f73223;
+ text-transform: none;
+ font-size: 14px;
+ text-align: left;
+ }
+
+
+
+ .test5 {
+ color: #ffffff;
+ font-size: 12px;
+ position:relative;
+ text-align: center;
+ }
+
+
+
+ .logo-h2{ 
+ margin: 0; 
+ padding: 0; 
+ font:21px Verdana,Arial,Helvetica, sans-serif; 
+ text-shadow: 1px 1px 1px #000; 
+ font-weight: bold; 
+ color:#D2D2D2; 
+ }
+
+
+ .test4 {
+ color: #ffffff;
+ font-size: 14px;
+ text-align: center;
+ }
+
+
+ .test5 {
+ color: #ffffff;
+ font-size: 12px;
+ position:relative;
+ text-align: center;
+ }
+
+
+
+ img { 
+ max-width: 100%;
+ height: auto;
+ width: auto\9; 
+ }
+ section {
+ border:0px solid #000;
+ width: 100%;
+ max-width:1200px;
+ margin: 0 auto;
+ margin-top:40px;
+ height:auto;
+ }
+ .image {
+ position:relative;
+ margin: 0 auto;
+ float: center;
+ overflow:hidden;
+ width: 72%;
+ height:auto;
+ }
+ .image img {
+ -moz-transition: all 1s ease-out;
+ -o-transition: all 1s ease-out;
+ -webkit-transition: all 1s ease-out;
+ }
+ .image img:hover{
+ border-radius: 6px;
+ -webkit-transform: scale(1.2);
+ -moz-transform: scale(1.2);
+ -o-transform: scale(1.2);
+ }
+ #last{
+ margin-right:0px;
+ @media screen and (min-width:100px) and (max-width:1200px) 
+ {
+ section {
+ width: 95%;
+ }
+ } 
+
+
+ .test6 {
+ font-size: 18px;
+ position:relative;
+ text-align: center;
+ }
+
+
+ h3{
+ font-size: 32px;
+ text-transform: none;
+ font-weight: bold;
+ text-align: center;
+ } !important;
+
+
+ .rock {
+ width: 70%;
+ margin: 0 auto;
+ }
+
+

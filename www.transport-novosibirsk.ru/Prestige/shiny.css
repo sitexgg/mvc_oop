@@ -1,0 +1,173 @@
+﻿
+.shiny
+{
+ color: red;
+ background: -webkit-gradient(linear, left top, left bottom, from(#f04d4e), to(#f04d4e));
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+ display: inline-block;
+
+ font-size: 0.9em;
+ font-weight: 700;
+ position: relative;
+ text-transform: uppercase;
+}
+
+.shiny::before
+{
+ background-position: -280px;
+ -webkit-animation: flare 10s infinite;
+ -webkit-animation-timing-function: linear;
+ background-image: linear-gradient(65deg, transparent 20%, rgba(255, 255, 255, 0.2) 20%, rgba(255, 255, 255, 0.3) 27%, transparent 27%, transparent 100%);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+ content: "ДвижКод";
+ color: #FFF;
+ display: block;
+ padding-right: 140px;
+ position: absolute;
+}
+
+.shiny::after
+{
+ content: "ДвижКод";
+ color: #FFF;
+ display: block;
+ position: absolute;
+
+ top: 0;
+ z-index: -1;
+}
+
+.inner-shiny::after, .inner-shiny::before
+{
+ -webkit-animation: sparkle 10s infinite;
+ -webkit-animation-timing-function: linear;
+ background: #FFF;
+ border-radius: 100%;
+
+ content: "";
+ display: block;
+ height: 10px;
+ opacity: 0.9;
+ position: absolute;
+ width: 60px;
+}
+
+.inner-shiny::before
+{
+ -webkit-animation-delay: 0.2s;
+ height: 7px;
+ left: 0.12em;
+ top: 0.8em;
+ width: 7px;
+}
+
+.inner-shiny::after
+{
+ top: 0.32em;
+ right: -5px;
+}
+
+@-webkit-keyframes flare
+{
+ 0% { background-position: -180px; }
+ 30% { background-position: 500px; }
+ 100% { background-position: 500px; }
+}
+
+@-webkit-keyframes sparkle
+{
+ 0% { opacity: 0; }
+ 30% { opacity: 0; }
+ 40% { opacity: 0.8; }
+ 60% { opacity: 0; }
+ 100% { opacity: 0; }
+}
+
+
+.shiny2
+{
+ color: red;
+ background: -webkit-gradient(linear, left top, left bottom, from(#21617d), to(#21617d));
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+ display: inline-block;
+
+ font-size: 0.9em;
+ font-weight: 900;
+ position: relative;
+ text-transform: uppercase;
+}
+
+.shiny2::before
+{
+ background-position: -280px;
+ -webkit-animation: flare 5s infinite;
+ -webkit-animation-timing-function: linear;
+ background-image: linear-gradient(65deg, transparent 20%, rgba(255, 255, 255, 0.2) 20%, rgba(255, 255, 255, 0.3) 27%, transparent 27%, transparent 100%);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+ content: "ДвижКод";
+ color: #FFF;
+ display: block;
+ padding-right: 140px;
+ position: absolute;
+}
+
+.shiny2::after
+{
+ content: "ДвижКод";
+ color: #FFF;
+ display: block;
+ position: absolute;
+
+ top: 0;
+ z-index: -1;
+}
+
+.inner-shiny2::after, .inner-shiny::before
+{
+ -webkit-animation: sparkle 5s infinite;
+ -webkit-animation-timing-function: linear;
+ background: #FFF;
+ border-radius: 100%;
+
+ content: "";
+ display: block;
+ height: 10px;
+ opacity: 0.9;
+ position: absolute;
+ width: 60px;
+}
+
+.inner-shiny2::before
+{
+ -webkit-animation-delay: 0.2s;
+ height: 7px;
+ left: 0.12em;
+ top: 0.8em;
+ width: 7px;
+}
+
+.inner-shiny2::after
+{
+ top: 0.32em;
+ right: -5px;
+}
+
+@-webkit-keyframes flare
+{
+ 0% { background-position: -180px; }
+ 30% { background-position: 500px; }
+ 100% { background-position: 500px; }
+}
+
+@-webkit-keyframes sparkle
+{
+ 0% { opacity: 0; }
+ 30% { opacity: 0; }
+ 40% { opacity: 0.8; }
+ 60% { opacity: 0; }
+ 100% { opacity: 0; }
+}
