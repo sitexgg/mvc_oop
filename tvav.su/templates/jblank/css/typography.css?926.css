@@ -1,0 +1,91 @@
+/*base size*/
+.content{ font-size:14px; line-height:17px; color:#333; font-family:'Open Sans',sans-serif,Arial,Tahoma; }
+.content p{ text-align: justify; }
+
+h1, .content h1, .content h2, .content h3, .content h4{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 400;
+    color: #000;
+}
+h1, .content h2{ font-size: 28px; line-height: 33px; margin: 0 0 30px 0; }
+.content h2{ margin: 38px 0 18px 0; }
+.content h3{ font-size: 21px; line-height: 28px; margin: 25px 0 15px 0; }
+.content h4{ font-size: 18px; line-height: 25px; margin: 22px 0 12px 0; }
+.content h5{ font-size: 15px; line-height: 21px; margin: 20px 0 10px 0; font-family: 'Open Sans', sans-serif, Arial, Tahoma; }
+.content h6{ font-size: 14px; line-height: 17px; margin: 15px 0 10px 0; font-family: 'Open Sans', sans-serif, Arial, Tahoma; font-weight: bold; }
+
+/*hr*/
+.content hr{display:block;background:#aaa;width:100%;height:1px;border:none;}
+
+/*list*/
+.content ul{ list-style: disc;}
+.content ul, .content ol{margin-left:23px;margin-bottom:1em;}
+.content ol ol{margin-left:2.5em;}
+.content ol > li{list-style-image:none;list-style-type:decimal;}
+.content dt{font-weight:bold;}
+.content ul > li{ position: relative; list-style-type: none; }
+.content ul > li:before{ content:''; position:absolute; display:block; background:#de4a4a; width:7px; height:7px; top:5px; left:-15px; }	
+	
+/*dt,dl,dd*/
+.content dl dt{margin-bottom:0.25em;font-weight:bold;}
+.content dl dd{padding-left:4em;margin-bottom:0.25em;}
+
+/*table )*/
+.content table {width:100%; margin: 15px 0; font-size: 14px;}
+.content table caption {color:#999;font-style: italic;}
+.content table th, .content table td {line-height: 16px;padding: 10px 10px; background: none;}
+.content table th { font-weight: bold; color: #333; text-align: left; background: #fff6f6; }
+.content table thead th, .content table thead td {padding-top:10px;}
+.content table tfoot th, .content table tfoot td {padding-bottom:10px; font-style: italic;}
+.content table tbody th, .content table tbody td, .content table tfoot th, .content table tfoot td {border:solid 1px #eee}
+.content table tr:hover {background: none!important;}
+.content table tbody tr:nth-child(odd) td{ background: #fcfcfc }
+
+
+/*margin & padding*/
+.content blockquote p:first-child{margin:1em 0;}
+.content hr, .content p, .content ul, .content ol, .content dl, .content pre, .content blockquote, .content address, .content form, .content table{margin-bottom: 15px;}
+.content p{text-indent:0;}
+.content caption{padding:0.5em 0;}
+.content blockquote{padding:0 1em;margin:1.8em 0;}
+
+/*link*/
+.content a:link{text-decoration:none;color:#de4a4a;;}
+.content a:visited{text-decoration:none;color:#de4a4a;}
+.content a:hover{text-decoration:none;color:#41ccd5;}
+.content a:active, .content a:focus{text-decoration:none;color:#000;}
+.content a{text-decoration:none;color:#de4a4a;}
+.content a:hover{text-decoration:none;}
+/*.content a[target="_blank"], .content a.external{padding-right:13px;}*/
+
+/*code, pre*/
+.content pre {margin: 0.5em 0;padding: 0.5em 0 0.5em 1em;border: 1px dotted #aab4be;border-left: 1.8em solid #b4b4b4;background: #fafafa;font-size: 90%;color: #2E8B57;white-space: pre-wrap;}
+.content code {word-spacing: -2px;color: #D64514;}
+
+/*image*/
+img{ height: auto; max-width: 100%; }
+.content a:hover img {border-color:#aaa;outline:1px solid #ff0;}
+.content img[align="left"], .content img.alignImageLeft{float:left;margin:0 1em 0.5em 0;}
+.content img[align="right"], .content img.alignImageRight{float:right;margin:0 0 0.5em 1em;}
+
+/*quote*/
+.content blockquote{border-top:1px solid #ccc;border-bottom:1px solid #ccc;color:#666;font-style:italic;}
+blockquote *:before {content: "\201C";}
+blockquote *:after {content: "\201D";}
+q:before {content: "\00AB";}
+q:after {content: "\00BB";}
+
+/*form button*/
+.content button, .content input[type="button"], .content input[type="reset"], .content input[type="submit"], .content .button{ text-align: left; }
+
+/*form validate error*/
+.content input:invalid,.content textarea:invalid,.content input.error,.content textarea.error,.content legend.error,
+.content select.error{
+    background-color: #f0dddd!important;
+    border:1px solid #ffb4b4!important;
+    color:#000!important;
+}
+.content input:invalid:focus,.content textarea:invalid:focus,.content input.error:focus,.content textarea.error:focus,
+.content legend.error:focus,.content select.error:focus {
+    background-color: #fff!important;
+}

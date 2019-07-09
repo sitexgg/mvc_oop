@@ -1,0 +1,47 @@
+User-agent: Yandex
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /tmp/
+Disallow: /?utm_source=
+Disallow: /*.doc
+Disallow: /*.docx
+Disallow: /*.xls
+Disallow: /*.xlsx
+Disallow: /*.pdf
+Sitemap: https://tvav.su/index.php?option=com_jmap&view=sitemap&format=xml
+
+
+
+User-agent: *
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /tmp/
+Disallow: /*.doc
+Disallow: /*.docx
+Disallow: /*.xls
+Disallow: /*.xlsx
+Disallow: /*.pdf
+Sitemap: https://tvav.su/index.php?option=com_jmap&view=sitemap&format=xml
+Host: tvav.su

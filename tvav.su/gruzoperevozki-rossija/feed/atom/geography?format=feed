@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="ru-ru">
+	<title type="text">Направления грузоперевозок по России транспортной компании Твоё авто</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://tvav.su"/>
+	<id>https://tvav.su/gruzoperevozki-rossija/feed/atom/geography</id>
+	<updated>2019-07-09T09:40:16+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://tvav.su/gruzoperevozki-rossija?format=feed&amp;task=feed&amp;type=atom&amp;app_id=3"/>
+	<entry>
+		<title>Санкт-Петербург - Сочи</title>
+		<link rel="alternate" type="text/html" href="https://tvav.su/gruzoperevozki-rossija/spb-sochi"/>
+		<published>2016-04-18T14:30:28+00:00</published>
+		<updated>2016-04-18T14:30:28+00:00</updated>
+		<id>https://tvav.su/gruzoperevozki-rossija/spb-sochi</id>
+		<author>
+			<name>Super User</name>
+		</author>
+	</entry>
+	<entry>
+		<title>Санкт-Петербург - Иркутск</title>
+		<link rel="alternate" type="text/html" href="https://tvav.su/gruzoperevozki-rossija/spb-irkutsk"/>
+		<published>2014-09-17T16:19:27+00:00</published>
+		<updated>2014-09-17T16:19:27+00:00</updated>
+		<id>https://tvav.su/gruzoperevozki-rossija/spb-irkutsk</id>
+		<author>
+			<name>Super User</name>
+		</author>
+	</entry>
+	<entry>
+		<title>Санкт-Петербург - Красноярск</title>
+		<link rel="alternate" type="text/html" href="https://tvav.su/gruzoperevozki-rossija/spb-krasnoyarsk"/>
+		<published>2014-09-17T16:17:42+00:00</published>
+		<updated>2014-09-17T16:17:42+00:00</updated>
+		<id>https://tvav.su/gruzoperevozki-rossija/spb-krasnoyarsk</id>
+		<author>
+			<name>Super User</name>
+		</author>
+	</entry>
+	<entry>
+		<title>Санкт-Петербург - Челябинск</title>
+		<link rel="alternate" type="text/html" href="https://tvav.su/gruzoperevozki-rossija/spb-chelyabinsk"/>
+		<published>2014-09-17T16:16:48+00:00</published>
+		<updated>2014-09-17T16:16:48+00:00</updated>
+		<id>https://tvav.su/gruzoperevozki-rossija/spb-chelyabinsk</id>
+		<author>
+			<name>Super User</name>
+		</author>
+	</entry>
+	<entry>
+		<title>Санкт-Петербург - Оренбург</title>
+		<link rel="alternate" type="text/html" href="https://tvav.su/gruzoperevozki-sankt-peterburg-orenburg"/>
+		<published>2014-09-16T10:19:18+00:00</published>
+		<updated>2014-09-16T10:19:18+00:00</updated>
+		<id>https://tvav.su/gruzoperevozki-sankt-peterburg-orenburg</id>
+		<author>
+			<name>Super User</name>
+		</author>
+	</entry>
+	<entry>
+		<title>Москва - Санкт-Петербург</title>
+		<link rel="alternate" type="text/html" href="https://tvav.su/gruzoperevozki-rossija/msk-spb"/>
+		<published>2014-09-13T21:31:44+00:00</published>
+		<updated>2014-09-13T21:31:44+00:00</updated>
+		<id>https://tvav.su/gruzoperevozki-rossija/msk-spb</id>
+		<author>
+			<name>Super User</name>
+		</author>
+	</entry>
+	<entry>
+		<title>Санкт-Петербург - Самара</title>
+		<link rel="alternate" type="text/html" href="https://tvav.su/gruzoperevozki-rossija/spb-samara"/>
+		<published>2014-08-28T17:47:43+00:00</published>
+		<updated>2014-08-28T17:47:43+00:00</updated>
+		<id>https://tvav.su/gruzoperevozki-rossija/spb-samara</id>
+		<author>
+			<name>Super User</name>
+		</author>
+	</entry>
+	<entry>
+		<title>Санкт-Петербург - Краснодар</title>
+		<link rel="alternate" type="text/html" href="https://tvav.su/gruzoperevozki-rossija/spb-krasnodar"/>
+		<published>2014-08-28T17:44:42+00:00</published>
+		<updated>2014-08-28T17:44:42+00:00</updated>
+		<id>https://tvav.su/gruzoperevozki-rossija/spb-krasnodar</id>
+		<author>
+			<name>Super User</name>
+		</author>
+	</entry>
+	<entry>
+		<title>Санкт-Петербург - Новосибирск</title>
+		<link rel="alternate" type="text/html" href="https://tvav.su/gruzoperevozki-rossija/spb-novosibirsk"/>
+		<published>2014-08-28T17:40:25+00:00</published>
+		<updated>2014-08-28T17:40:25+00:00</updated>
+		<id>https://tvav.su/gruzoperevozki-rossija/spb-novosibirsk</id>
+		<author>
+			<name>Super User</name>
+		</author>
+	</entry>
+	<entry>
+		<title>Санкт-Петербург - Мурманск</title>
+		<link rel="alternate" type="text/html" href="https://tvav.su/gruzoperevozki-rossija/spb-murmansk"/>
+		<published>2014-08-28T17:36:01+00:00</published>
+		<updated>2014-08-28T17:36:01+00:00</updated>
+		<id>https://tvav.su/gruzoperevozki-rossija/spb-murmansk</id>
+		<author>
+			<name>Super User</name>
+		</author>
+	</entry>
+</feed>
